@@ -407,7 +407,6 @@ hr:before {
     font-family: "Font Awesome 6 Free";
     text-align: center;
     color:white;
-    line-height:34px;/*如果有溢出或者垂直不居中的现象微调一下这个参数*/
     font-size: 18px;/*根据个人喜好*/
 }
 #site-name:hover::before{
@@ -416,7 +415,24 @@ hr:before {
 }
 #site-name{
     position: relative;
-    font-size: 24px; /*一定要把字体调大点，否则效果惨不忍睹！*/
+}
+/*电脑端自适应*/
+@media screen and (min-width: 768px) {
+    #site-name{
+        font-size: 24px; /*一定要把字体调大点，否则效果惨不忍睹！*/
+    }
+    #site-name::before{
+        line-height:34px;/*如果有溢出或者垂直不居中的现象微调一下这个参数*/
+    }
+}
+/*手机端自适应*/
+@media screen and (max-width: 768px) {
+    #site-name{
+        font-size: 18px; /*一定要把字体调大点，否则效果惨不忍睹！*/
+    }
+    #site-name::before{
+        line-height:24px;/*如果有溢出或者垂直不居中的现象微调一下这个参数*/
+    }
 }
 :root{
     --lyx-theme:#95f395 /*我的主题色*/
