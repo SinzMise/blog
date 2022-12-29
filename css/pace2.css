@@ -46,3 +46,6 @@
     animation: gradient 2s ease infinite;
     background-size: 200%;
   }
+#footer-wrap.boardsign{
+display:none;
+}

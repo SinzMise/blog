@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'ListenToWind';
+    font-display: swap;
+    src: url('/fonts/1.ttf') format("truetype");
+  }
+
+@font-face {
+    font-family: 'CangerYuyang';
+    font-display: swap;
+    src: url('/fonts/2.ttf') format("truetype");
+  }
