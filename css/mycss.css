@@ -1,4 +1,6 @@
 :root {
     --heo-main: #95f395;
+}
+[data-theme="dark"]{
     --recent-post-bgcolor: rgba(35,35,35,0.8);
 }
