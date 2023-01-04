@@ -50,9 +50,9 @@
     <link href="https://blog.sinzmise.cf/posts/23021/"/>
     <id>https://blog.sinzmise.cf/posts/23021/</id>
     <published>2022-12-31T06:53:11.000Z</published>
-    <updated>2022-12-31T09:07:05.270Z</updated>
+    <updated>2023-01-04T10:31:08.709Z</updated>
     
-    <content type="html"><![CDATA[<p>这是我在2022年的最后一篇文章。<br>时间过得真快，我刚迁移完博客，2022就快结束了<br>对此我并没有想说的 <del>（不是懒得说是真的没灵感）</del><br>不知道要说什么，也不知道有什么话要跟大家说<br>那我就先祝大家新的一年开开心心吧！<br>再见，2022。你好2023。</p>]]></content>
+    <content type="html"><![CDATA[<div class="note info flat"><p>封面图片来自：<a href="https://www.tukuppt.com/muban/vnjzjzvp.html">https://www.tukuppt.com/muban/vnjzjzvp.html</a></p></div><p>这是我在2022年的最后一篇文章。<br>时间过得真快，我刚迁移完博客，2022就快结束了<br>对此我并没有想说的 <del>（不是懒得说是真的没灵感）</del><br>不知道要说什么，也不知道有什么话要跟大家说<br>那我就先祝大家新的一年开开心心吧！<br>再见，2022。你好2023。</p>]]></content>
     
     <summary type="html">
     
@@ -60,12 +60,14 @@
       
         
         
-          &lt;p&gt;这是我在2022年的最后一篇文章。&lt;br&gt;时间过得真快，我刚迁移完博客，2022就快结束了&lt;br&gt;对此我并没有想说的
+          &lt;div class=&quot;note info flat&quot;&gt;&lt;p&gt;封面图片来自：&lt;a
         
       
     
     </summary>
     
+    
+      <category term="个人感想" scheme="https://blog.sinzmise.cf/categories/%E4%B8%AA%E4%BA%BA%E6%84%9F%E6%83%B3/"/>
     
     
   </entry>
