@@ -1,6 +1,32 @@
 :root {
-    --heo-main: #95f395;
+    --sinz-light: #95f395;
+    --sinz-dark-1: #2d402c;
+    --sinz-dark-2: #111611;
+}
+
+:root {
+    --heo-main: var(--sinz-light);
+    --new-post: var(--sinz-light);
 }
 [data-theme="dark"]{
-    --recent-post-bgcolor: rgba(35,35,35,0.8);
+    --preloader-bg:var(--sinz-dark-1);
+    --sidebar-bg:var(--sinz-dark-2);
+    --btn-bg:var(--sinz-dark-1);
+    --heo-main: var(--sinz-dark-1);
+    --recent-post-bgcolor: var(--sinz-dark-2);
+    --article-content-bgcolor: var(--sinz-dark-1);
+    --new-post: var(--sinz-dark-1);
+    --recent-post-cover-shadow: var(--sinz-dark-2);
+    --card-bg:var(--sinz-dark-2);
+    --global-bg:var(--sinz-dark-1);
+}
+@media screen and (max-width: 768px){
+#category-bar {
+    border-radius: 12px;
+}
+}
+[data-theme='dark'] #page-header.nav-fixed > #nav, [data-theme='dark'] #page-header.not-top-img > #nav {
+    background: var(--sinz-dark-1);
+    opacity:0.8;
+    box-shadow: 0 5px 6px -5px rgb(133 133 133 / 0%);
 }
