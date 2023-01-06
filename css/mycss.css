@@ -30,3 +30,7 @@
     opacity:0.8;
     box-shadow: 0 5px 6px -5px rgb(133 133 133 / 0%);
 }
+.transparentpage{
+    background:transparent!important;
+    box-shadow: 0px;
+}
