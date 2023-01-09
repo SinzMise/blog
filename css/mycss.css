@@ -38,7 +38,6 @@
     background-image: linear-gradient(100deg,#3498db,#27ae60,#9b59b6,#3498db,#f39c12,#d35400)!important;
 	background-size: 800%!important;
 	animation: bganimation 105s infinite!important;
-    height: 583px!important;
 }
 
 @keyframes bganimation{
