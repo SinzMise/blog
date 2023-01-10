@@ -4,7 +4,43 @@
   <url>
     <loc>https://blog.sinzmise.cf/posts/22945/</loc>
     
-    <lastmod>2023-01-09</lastmod>
+    <lastmod>2023-01-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sinzmise.cf/music/index.html</loc>
+    
+    <lastmod>2023-01-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sinzmise.cf/posts/23021/</loc>
+    
+    <lastmod>2023-01-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sinzmise.cf/posts/16107/</loc>
+    
+    <lastmod>2023-01-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sinzmise.cf/charts/index.html</loc>
+    
+    <lastmod>2023-01-10</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -14,33 +50,6 @@
     <loc>https://blog.sinzmise.cf/posts/24196/</loc>
     
     <lastmod>2023-01-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.sinzmise.cf/posts/16107/</loc>
-    
-    <lastmod>2023-01-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.sinzmise.cf/posts/23021/</loc>
-    
-    <lastmod>2023-01-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.sinzmise.cf/music/index.html</loc>
-    
-    <lastmod>2023-01-08</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -94,7 +103,7 @@
 
   <url>
     <loc>https://blog.sinzmise.cf/</loc>
-    <lastmod>2023-01-09</lastmod>
+    <lastmod>2023-01-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -102,28 +111,28 @@
   
   <url>
     <loc>https://blog.sinzmise.cf/tags/Hexo/</loc>
-    <lastmod>2023-01-09</lastmod>
+    <lastmod>2023-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.sinzmise.cf/tags/Flash/</loc>
-    <lastmod>2023-01-09</lastmod>
+    <lastmod>2023-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.sinzmise.cf/tags/Ruffle/</loc>
-    <lastmod>2023-01-09</lastmod>
+    <lastmod>2023-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.sinzmise.cf/tags/Butterfly/</loc>
-    <lastmod>2023-01-09</lastmod>
+    <lastmod>2023-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -132,14 +141,14 @@
   
   <url>
     <loc>https://blog.sinzmise.cf/categories/%E4%B8%AA%E4%BA%BA%E6%84%9F%E6%83%B3/</loc>
-    <lastmod>2023-01-09</lastmod>
+    <lastmod>2023-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.sinzmise.cf/categories/Hexo/</loc>
-    <lastmod>2023-01-09</lastmod>
+    <lastmod>2023-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
