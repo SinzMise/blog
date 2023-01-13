@@ -6,7 +6,7 @@
   <link href="https://blog.sinzmise.cf/atom.xml" rel="self"/>
   
   <link href="https://blog.sinzmise.cf/"/>
-  <updated>2023-01-12T01:43:52.477Z</updated>
+  <updated>2023-01-13T13:43:46.482Z</updated>
   <id>https://blog.sinzmise.cf/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>html点赞计数插件 —— ViLike.js</title>
+    <link href="https://blog.sinzmise.cf/posts/38964/"/>
+    <id>https://blog.sinzmise.cf/posts/38964/</id>
+    <published>2023-01-13T13:01:37.000Z</published>
+    <updated>2023-01-13T13:43:46.482Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><h2 id="1-官方介绍"><a href="#1-官方介绍" class="headerlink" title="1.官方介绍"></a>1.官方介绍</h2><p><img src="https://cdn.staticaly.com/gh/SinzMise/MYPictures@master/20230113/msedge_l4oxtFyMlp.5p7o78ial1s0.webp" alt="msedge_l4oxtFyMlp"></p><h2 id="2-发现经历"><a href="#2-发现经历" class="headerlink" title="2.发现经历"></a>2.发现经历</h2><p>我也是意外才发现这个插件的，本想搞点赞计数的，但<a href="https://www.bmob.cn/">https://www.bmob.cn/</a> 打不开了，搞到我以为Bmob跑路了，结果我查到了他们Github才知道他们换域名了：<br><img src="https://cdn.staticaly.com/gh/SinzMise/MYPictures@master/20230113/msedge_zvUC3GD3x8.6w1tcv824po0.webp" alt="msedge_zvUC3GD3x8"><br>也就是说之前的教程几乎全都无效了，没办法我只能写新教程</p><h1 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h1><h2 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h2><h3 id="创建应用"><a href="#创建应用" class="headerlink" title="创建应用"></a>创建应用</h3><p><a href="https://www.bmobapp.com/login">登录</a>或<a href="https://www.bmobapp.com/register">注册</a>Bmob账号，进入控制台后点击左上角创建应用：<br><img src="https://cdn.staticaly.com/gh/SinzMise/MYPictures@master/20230113/msedge_E2FfmyL3CY.6ljt8koypsg0.webp" alt="msedge_E2FfmyL3CY"></p>]]></content>
+    
+    
+    <summary type="html">Bmob没跑路。。。。只是换域名了</summary>
+    
+    
+    
+    <category term="Hexo" scheme="https://blog.sinzmise.cf/categories/Hexo/"/>
+    
+    
+    <category term="Hexo" scheme="https://blog.sinzmise.cf/tags/Hexo/"/>
+    
+    <category term="Butterfly" scheme="https://blog.sinzmise.cf/tags/Butterfly/"/>
+    
+    <category term="ViLike.js" scheme="https://blog.sinzmise.cf/tags/ViLike-js/"/>
+    
+  </entry>
   
   <entry>
     <title>butterfly主题添加音乐页面（适配手机）</title>
