@@ -11,6 +11,15 @@
   </url>
   
   <url>
+    <loc>https://blog.sinzmise.cf/posts/22945/</loc>
+    
+    <lastmod>2023-01-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.sinzmise.cf/speaks/index.html</loc>
     
     <lastmod>2023-01-14</lastmod>
@@ -23,15 +32,6 @@
     <loc>https://blog.sinzmise.cf/speaks/info.html</loc>
     
     <lastmod>2023-01-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.sinzmise.cf/posts/22945/</loc>
-    
-    <lastmod>2023-01-12</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>

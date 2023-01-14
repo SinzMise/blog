@@ -90,7 +90,7 @@ $(document).ready(function(){
 					}
 					else{
 							$('#error').text('最后一首歌！');
-							$('#t_cover').html('<img src="/assets/images/logo.png">');
+							$('#t_cover').html('<img src="https://cdn.staticaly.com/gh/SinzMise/MYPictures@master/20230114/logo.22azkjyis5uo.webp">');
 						}
 				});
 			
@@ -135,7 +135,7 @@ $(document).ready(function(){
 					}
 					else{
 							$('#error').text('已经到底啦，请选择歌曲！');
-							$('#t_cover').html('<img src="/assets/images/logo.png">');
+							$('#t_cover').html('<img src="https://cdn.staticaly.com/gh/SinzMise/MYPictures@master/20230114/logo.22azkjyis5uo.webp">');
 							mus = null;
 						}
 				});
@@ -155,7 +155,7 @@ $(document).ready(function(){
 					}
 					else{
 							$('#error').text('已经到顶啦，请选择歌曲！');
-							$('#t_cover').html('<img src="/assets/images/logo.png">');
+							$('#t_cover').html('<img src="https://cdn.staticaly.com/gh/SinzMise/MYPictures@master/20230114/logo.22azkjyis5uo.webp">');
 							
 							mus = null;
 						}
