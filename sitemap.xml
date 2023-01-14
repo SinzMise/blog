@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.sinzmise.cf/posts/38964/</loc>
+    
+    <lastmod>2023-01-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.sinzmise.cf/speaks/index.html</loc>
     
     <lastmod>2023-01-14</lastmod>
@@ -14,15 +23,6 @@
     <loc>https://blog.sinzmise.cf/speaks/info.html</loc>
     
     <lastmod>2023-01-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.sinzmise.cf/posts/38964/</loc>
-    
-    <lastmod>2023-01-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -135,20 +135,6 @@
   </url>
   
   <url>
-    <loc>https://blog.sinzmise.cf/tags/Butterfly/</loc>
-    <lastmod>2023-01-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.sinzmise.cf/tags/ViLike-js/</loc>
-    <lastmod>2023-01-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.sinzmise.cf/tags/Flash/</loc>
     <lastmod>2023-01-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -157,6 +143,27 @@
   
   <url>
     <loc>https://blog.sinzmise.cf/tags/Ruffle/</loc>
+    <lastmod>2023-01-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sinzmise.cf/tags/Butterfly/</loc>
+    <lastmod>2023-01-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sinzmise.cf/tags/%E8%AF%B4%E8%AF%B4/</loc>
+    <lastmod>2023-01-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sinzmise.cf/tags/ispeak/</loc>
     <lastmod>2023-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
