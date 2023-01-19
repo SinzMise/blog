@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>自建Meting服务</title>
+      <link href="/posts/61417/"/>
+      <url>/posts/61417/</url>
+      
+        <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>听人说Meting官方API证书过期了，也就是说MetingAPI得自建了<br>然后很快啊，有人就搞出了自建MetingAPI的Vercel版本</p><h1 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h1><h2 id="后端部署"><a href="#后端部署" class="headerlink" title="后端部署"></a>后端部署</h2><div class="tabs" id="后端部署"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#后端部署-1">Vercel部署（推荐）</button></li><li class="tab"><button type="button" data-href="#后端部署-2">服务器部署</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="后端部署-1"><p>点击下方按钮，跳转至 Vercel：<br><a href="https://vercel.com/new/clone?repository-url=https://github.com/ladjeek-actions/vercel-meting"><img src="https://vercel.com/button" alt="跳转到Vercel"></a><br>名字随便写，然后点击“Create”<br><img src="https://cdn.staticaly.com/gh/SinzMise/MYPictures@master/20230119/msedge_4fdyFO3sCF.7hpgbpasakc0.webp" alt="msedge_4fdyFO3sCF"><br>看到这个就算成功了<br><img src="https://cdn.staticaly.com/gh/SinzMise/MYPictures@master/20230119/msedge_fs4WGcMy4l.326qjm58vf20.webp" alt="msedge_fs4WGcMy4l"><br>如果出现这个错误<br><img src="https://cdn.staticaly.com/gh/SinzMise/MYPictures@master/20230119/msedge_znlfiMYXcI.1642eilub1mo.webp" alt="msedge_znlfiMYXcI"><br>请进入到对应的 GitHub 仓库中，修改vercel.json，把“vercel-php”后面的“@0.5.2”删除<br><img src="https://cdn.staticaly.com/gh/SinzMise/MYPictures@master/20230119/msedge_RZB92jw8am.4hw035bfazu0.webp" alt="msedge_RZB92jw8am"></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="后端部署-2"><p>编写中</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div><h2 id="前端部署"><a href="#前端部署" class="headerlink" title="前端部署"></a>前端部署</h2><h3 id="Butterfly主题"><a href="#Butterfly主题" class="headerlink" title="Butterfly主题"></a>Butterfly主题</h3><p>编辑[Blogroot]\themes\butterfly\layout\includes\third-party\aplayer.pug<br><figure class="highlight diff"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">link(rel=&#x27;stylesheet&#x27; href=url_for(theme.asset.aplayer_css) media=&quot;print&quot; onload=&quot;this.media=&#x27;all&#x27;&quot;)</span><br><span class="line">script(src=url_for(theme.asset.aplayer_js))</span><br><span class="line">script(src=url_for(theme.asset.meting_js))</span><br><span class="line"><span class="addition">+ script.</span></span><br><span class="line"><span class="addition">+   var meting_api=&#x27;https://（你的api地址）/api/?server=:server&amp;type=:type&amp;id=:id&amp;auth=:auth&amp;r=:r&#x27;;</span></span><br></pre></td></tr></table></figure></p><h3 id="HTML代码"><a href="#HTML代码" class="headerlink" title="HTML代码"></a>HTML代码</h3><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">script</span>&gt;</span><span class="language-javascript"></span></span><br><span class="line"><span class="language-javascript"><span class="keyword">var</span> meting_api=<span class="string">&#x27;https://（你的api地址）/api/?server=:server&amp;type=:type&amp;id=:id&amp;auth=:auth&amp;r=:r&#x27;</span>;</span></span><br><span class="line"><span class="language-javascript"></span><span class="tag">&lt;/<span class="name">script</span>&gt;</span></span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> Vercel </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Vercel </tag>
+            
+            <tag> Aplayer </tag>
+            
+            <tag> Meting </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>rdpwrap教程</title>
       <link href="/posts/39841/"/>
       <url>/posts/39841/</url>
