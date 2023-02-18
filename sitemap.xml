@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.sinzmise.cf/friend.json</loc>
+    
+    <lastmod>2023-02-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.sinzmise.cf/posts/48762/</loc>
     
     <lastmod>2023-02-02</lastmod>
@@ -192,6 +201,20 @@
   </url>
   
   <url>
+    <loc>https://blog.sinzmise.cf/tags/%E8%AF%B4%E8%AF%B4/</loc>
+    <lastmod>2023-02-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sinzmise.cf/tags/ispeak/</loc>
+    <lastmod>2023-02-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.sinzmise.cf/tags/Windows/</loc>
     <lastmod>2023-02-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -214,20 +237,6 @@
   
   <url>
     <loc>https://blog.sinzmise.cf/tags/%E4%B8%AD%E8%80%83%E5%8A%A0%E6%B2%B9/</loc>
-    <lastmod>2023-02-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.sinzmise.cf/tags/%E8%AF%B4%E8%AF%B4/</loc>
-    <lastmod>2023-02-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.sinzmise.cf/tags/ispeak/</loc>
     <lastmod>2023-02-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -257,14 +266,14 @@
 
   
   <url>
-    <loc>https://blog.sinzmise.cf/categories/Hexo/</loc>
+    <loc>https://blog.sinzmise.cf/categories/%E4%B8%AA%E4%BA%BA%E6%84%9F%E6%83%B3/</loc>
     <lastmod>2023-02-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.sinzmise.cf/categories/%E4%B8%AA%E4%BA%BA%E6%84%9F%E6%83%B3/</loc>
+    <loc>https://blog.sinzmise.cf/categories/Hexo/</loc>
     <lastmod>2023-02-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
