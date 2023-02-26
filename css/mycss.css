@@ -7,6 +7,8 @@
 :root {
     --heo-main: var(--sinz-light);
     --new-post: var(--sinz-light);
+    --anzhiyu-card-bg: #fff;
+    --style-border-always: 1px solid var(--sinz-light);
 }
 [data-theme="dark"]{
     --preloader-bg:var(--sinz-dark-1);
@@ -19,6 +21,7 @@
     --recent-post-cover-shadow: var(--sinz-dark-2);
     --card-bg:var(--sinz-dark-2);
     --global-bg:var(--sinz-dark-1);
+    --anzhiyu-card-bg: var(--sinz-dark-2);
 }
 @media screen and (max-width: 768px){
 #category-bar {

@@ -124,7 +124,7 @@
   }
   .cf-article:hover {
     transition: 0.3s;
-    border: var(--style-border-hover);
+    background: var(--heo-main);
     box-shadow: var(--anzhiyu-shadow-main);
   }
   
@@ -209,9 +209,9 @@
   }
   #cf-more:hover {
     width: 60%;
-    background: var(--anzhiyu-main);
+    background: var(--heo-main);
     color: var(--anzhiyu-white);
-    border: var(--style-border-hover);
+    border: var(--heo-main);
     box-shadow: var(--anzhiyu-shadow-main);
   }
   
