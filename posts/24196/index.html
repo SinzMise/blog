@@ -337,41 +337,30 @@ if ('Waline' === 'Waline' || !false) {
       loadTwikoo()
     }
   }
-})()</script></div><script data-pjax type="text/javascript" src="/js/rightmenu.js"></script><script data-pjax src="/js/lunar.js"></script><script data-pjax src="/js/day.js"></script><script data-pjax type="text/javascript" src="https://cdn1.tianli0.top/npm/sweetalert2@8.19.0/dist/sweetalert2.all.js"></script><script id="canvas_nest" defer="defer" color="0,0,255" opacity="0.7" zIndex="-1" count="99" mobile="false" src="https://unpkg.com/butterfly-extsrc/dist/canvas-nest.min.js"></script><script>window.$crisp = [];
-window.CRISP_WEBSITE_ID = "a5fca082-acc9-49bc-83ed-829c5ab8b563";
-(function () {
-  d = document;
-  s = d.createElement("script");
-  s.src = "https://client.crisp.chat/l.js";
-  s.async = 1;
-  d.getElementsByTagName("head")[0].appendChild(s);
-})();
-$crisp.push(["safe", true])
+})()</script></div><script data-pjax type="text/javascript" src="/js/rightmenu.js"></script><script data-pjax src="/js/lunar.js"></script><script data-pjax src="/js/day.js"></script><script data-pjax type="text/javascript" src="https://cdn1.tianli0.top/npm/sweetalert2@8.19.0/dist/sweetalert2.all.js"></script><script id="canvas_nest" defer="defer" color="0,0,255" opacity="0.7" zIndex="-1" count="99" mobile="false" src="https://unpkg.com/butterfly-extsrc/dist/canvas-nest.min.js"></script><script>((window.gitter = {}).chat = {}).options = {
+  disableDefaultChat: true,
+};
+document.addEventListener('gitter-sidecar-ready', (e) => {
+  const GitterChat = e.detail.Chat
+  let chat
 
-if (true) {
-  $crisp.push(["do", "chat:hide"])
-  $crisp.push(["on", "chat:closed", function() {
-    $crisp.push(["do", "chat:hide"])
-  }])
-  var chatBtnFn = () => {
-    var chatBtn = document.getElementById("chat_btn")
-    chatBtn.addEventListener("click", function(){
-      $crisp.push(["do", "chat:show"])
-      $crisp.push(["do", "chat:open"])
-
+  function initGitter () {
+    chat = new GitterChat({
+      room: 'sinzmise/sinzmisehouse',
+      activationElement: '#chat_btn'
     });
   }
-  chatBtnFn()
-} else {
+
+  initGitter()
+
   if (true) {
-    function chatBtnHide () {
-      $crisp.push(["do", "chat:hide"])
-    }
-    function chatBtnShow () {
-      $crisp.push(["do", "chat:show"])
-    }
+    document.addEventListener('pjax:complete', () => {
+      chat.destroy()
+      initGitter()
+    })
   }
-}</script><link rel="stylesheet" href="https://unpkg.com/aplayer/dist/APlayer.min.css" media="print" onload="this.media='all'"><script src="https://unpkg.com/aplayer/dist/APlayer.min.js"></script><script src="https://unpkg.com/butterfly-extsrc/metingjs/dist/Meting.min.js"></script><script>var meting_api='//meting.sinzmise.tk/api/?server=:server&type=:type&id=:id&auth=:auth&r=:r';</script><script src="https://unpkg.com/pjax/pjax.min.js"></script><script>let pjaxSelectors = ["head > title","#config-diff","#body-wrap","#rightside-config-hide","#rightside-config-show",".js-pjax"]
+
+})</script><script src="https://sidecar.gitter.im/dist/sidecar.v1.js" async="async" defer="defer"></script><link rel="stylesheet" href="https://unpkg.com/aplayer/dist/APlayer.min.css" media="print" onload="this.media='all'"><script src="https://unpkg.com/aplayer/dist/APlayer.min.js"></script><script src="https://unpkg.com/butterfly-extsrc/metingjs/dist/Meting.min.js"></script><script>var meting_api='//meting.sinzmise.tk/api/?server=:server&type=:type&id=:id&auth=:auth&r=:r';</script><script src="https://unpkg.com/pjax/pjax.min.js"></script><script>let pjaxSelectors = ["head > title","#config-diff","#body-wrap","#rightside-config-hide","#rightside-config-show",".js-pjax"]
 
 var pjax = new Pjax({
   elements: 'a:not([target="_blank"])',
