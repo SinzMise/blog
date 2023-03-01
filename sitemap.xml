@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.sinzmise.cf/posts/48762/</loc>
+    <loc>https://blog.sinzmise.cf/about/index.html</loc>
     
     <lastmod>2023-03-01</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://blog.sinzmise.cf/about/index.html</loc>
+    <loc>https://blog.sinzmise.cf/posts/48762/</loc>
     
     <lastmod>2023-03-01</lastmod>
     
@@ -201,20 +201,6 @@
   </url>
   
   <url>
-    <loc>https://blog.sinzmise.cf/tags/%E8%AF%B4%E8%AF%B4/</loc>
-    <lastmod>2023-03-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.sinzmise.cf/tags/ispeak/</loc>
-    <lastmod>2023-03-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.sinzmise.cf/tags/Windows/</loc>
     <lastmod>2023-03-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -223,6 +209,20 @@
   
   <url>
     <loc>https://blog.sinzmise.cf/tags/%E7%A0%B4%E8%A7%A3%E5%A4%9A%E7%94%A8%E6%88%B7/</loc>
+    <lastmod>2023-03-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sinzmise.cf/tags/%E8%AF%B4%E8%AF%B4/</loc>
+    <lastmod>2023-03-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sinzmise.cf/tags/ispeak/</loc>
     <lastmod>2023-03-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -266,14 +266,14 @@
 
   
   <url>
-    <loc>https://blog.sinzmise.cf/categories/Hexo/</loc>
+    <loc>https://blog.sinzmise.cf/categories/%E4%B8%AA%E4%BA%BA%E6%84%9F%E6%83%B3/</loc>
     <lastmod>2023-03-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.sinzmise.cf/categories/%E4%B8%AA%E4%BA%BA%E6%84%9F%E6%83%B3/</loc>
+    <loc>https://blog.sinzmise.cf/categories/Hexo/</loc>
     <lastmod>2023-03-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
