@@ -1,5 +1,5 @@
 setInterval(() => {
-  let create_time = Math.round(new Date('2022-12-24 21:13:46').getTime() / 1000); //在此行修改建站时间
+  let create_time = Math.round(new Date('2022-12-20 21:13:46').getTime() / 1000); //在此行修改建站时间
   let timestamp = Math.round((new Date().getTime()) / 1000);
   let second = timestamp - create_time;
   let time = new Array(0, 0, 0, 0, 0);
