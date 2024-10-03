@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Ceta Storical House</title>
+  
+  <subtitle>A magical cottage from the starry sky</subtitle>
+  <link href="https://en.blog.sinzmise.top/atom.xml" rel="self"/>
+  
+  <link href="https://en.blog.sinzmise.top/"/>
+  <updated>2024-10-03T02:35:45.776Z</updated>
+  <id>https://en.blog.sinzmise.top/</id>
+  
+  <author>
+    <name>SZ·Ninty·Ong</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>En Test</title>
+    <link href="https://en.blog.sinzmise.top/posts/46521/"/>
+    <id>https://en.blog.sinzmise.top/posts/46521/</id>
+    <published>2023-12-30T17:36:56.000Z</published>
+    <updated>2024-10-03T02:35:45.776Z</updated>
+    
+    <content type="html"><![CDATA[<p>Hello! This is my first English article.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Hello! This is my first English article.&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="Test" scheme="https://en.blog.sinzmise.top/categories/Test/"/>
+    
+    
+    <category term="Test" scheme="https://en.blog.sinzmise.top/tags/Test/"/>
+    
+  </entry>
+  
+</feed>
