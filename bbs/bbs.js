@@ -1,0 +1,1 @@
+function whenDOMReady(){location.pathname.startsWith("/bbs/")&&loadbbs()}function loadbbs(){$.get("/bbs/bbs.html",(function(e){$("#memosbbs").html(e)}))}whenDOMReady(),document.addEventListener("pjax:complete",whenDOMReady);
