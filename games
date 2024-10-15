@@ -1,0 +1,799 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="x5-fullscreen" content="true">
+<meta name="full-screen" content="yes">
+<meta name="theme-color" content="#317EFB" />
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=0" name="viewport">
+<meta name="description" content="生命不息，游戏不止！         .bangumi-tabs{margin-bottom:15px;margin-top:15px}.bangumi-tab{padding:5px}a.bangumi-tab{text-decoration:none}.bangumi-active{background:#657b83;color:#fff}.bangumi-item{positi">
+<meta property="og:type" content="website">
+<meta property="og:title" content="中弦游戏库">
+<meta property="og:url" content="https://blog.sinzmise.top/games">
+<meta property="og:site_name" content="汐塔魔法屋">
+<meta property="og:description" content="生命不息，游戏不止！         .bangumi-tabs{margin-bottom:15px;margin-top:15px}.bangumi-tab{padding:5px}a.bangumi-tab{text-decoration:none}.bangumi-active{background:#657b83;color:#fff}.bangumi-item{positi">
+<meta property="og:locale">
+<meta property="og:image" content="https://img.noobzone.ru/getimg.php?url=https://lain.bgm.tv/r/400/pic/cover/l/b2/00/208415_9u4eO.jpg">
+<meta property="og:image" content="https://img.noobzone.ru/getimg.php?url=https://lain.bgm.tv/r/400/pic/cover/l/5e/2d/482314_p2UWW.jpg">
+<meta property="og:image" content="https://img.noobzone.ru/getimg.php?url=https://lain.bgm.tv/r/400/pic/cover/l/cb/f2/310675_uO3aP.jpg">
+<meta property="article:author" content="王九弦SZ·Ninty">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://img.noobzone.ru/getimg.php?url=https://lain.bgm.tv/r/400/pic/cover/l/b2/00/208415_9u4eO.jpg">
+
+
+<title >中弦游戏库</title>
+
+<!-- Favicon -->
+
+    <link href='/images/siteicon/favicon-16x16.png?v=2.2.3' rel='icon' type='image/png' sizes='16x16' ></link>
+
+
+    <link href='/images/siteicon/favicon-32x32.png?v=2.2.3' rel='icon' type='image/png' sizes='32x32' ></link>
+
+
+    <link href='/images/siteicon/apple-touch-icon.png?v=2.2.3' rel='apple-touch-icon' sizes='180x180' ></link>
+
+
+    <link href='/manifest.json' rel='manifest' ></link>
+
+
+<!-- IndieWeb -->
+<link rel="authorization_endpoint" href="https://indieauth.com/auth">
+<link rel="token_endpoint" href="https://tokens.indieauth.com/token">
+
+<!-- Plugin -->
+
+
+
+
+    
+<link rel="stylesheet" href="/css/plugins/bootstrap.row.css">
+
+    
+<link rel="stylesheet" href="https://jsd.cdn.storisinz.site/npm/@fancyapps/ui@4.0/dist/fancybox.css">
+
+    
+    
+
+
+
+<!-- WebMention -->
+
+    
+
+
+
+<!-- Icon -->
+
+    
+<link rel="stylesheet" href="/css/plugins/font-awesome.min.css">
+
+
+
+
+<!-- Variable -->
+<script>window.ASYNC_CONFIG = {"hostname":"blog.sinzmise.top","author":"王九弦SZ·Ninty","root":"/","typed_text":null,"theme_version":"2.2.3","theme":{"switch":true,"default":"auto"},"favicon":{"logo":"/images/siteicon/favicon.ico","icon16":"/images/siteicon/favicon-16x16.png","icon32":"/images/siteicon/favicon-32x32.png","apple_touch_icon":"/images/siteicon/apple-touch-icon.png","webmanifest":"/manifest.json","visibilitychange":true,"hidden":"/images/siteicon/favicon.ico","show_text":"那人却在，灯火阑珊处","hide_text":"众里寻他千百度，蓦然回首"},"i18n":{"placeholder":"搜索文章...","empty":"找不到您查询的内容: ${query}","hits":"找到 ${hits} 条结果","hits_time":"找到 ${hits} 条结果（用时 ${time} 毫秒）","author":"本文作者：","copyright_link":"本文链接：","copyright_license_title":"版权声明：","copyright_license_content":"本博客所有文章除特别声明外，均默认采用 undefined 许可协议。","copy_success":"复制成功","copy_failure":"复制失败","open_read_mode":"进入阅读模式","exit_read_mode":"退出阅读模式","notice_outdate_message":"距离上次更新已经 undefined 天了, 文章内容可能已经过时。","sticky":"置顶","just":"刚刚","min":"分钟前","hour":"小时前","day":"天前","month":"个月前"},"swup":true,"plugin":{"flickr_justified_gallery":"https://jsd.cdn.storisinz.site/npm/flickr-justified-gallery@latest/dist/fjGallery.min.js"},"icons":{"sun":"far fa-sun","moon":"far fa-moon","play":"fas fa-play","email":"far fa-envelope","next":"fas fa-arrow-right","calendar":"far fa-calendar-alt","clock":"far fa-clock","user":"far fa-user","back_top":"fas fa-arrow-up","close":"fas fa-times","search":"fas fa-search","reward":"fas fa-hand-holding-usd","toc_tag":"fas fa-th-list","read":"fas fa-book-reader","arrows":"fas fa-arrows-alt-h","double_arrows":"fas fa-angle-double-down","copy":"fas fa-copy"},"icontype":"font","highlight":{"plugin":"highlighjs","theme":true,"copy":true,"lang":true,"title":"default","height_limit":false},"toc":{"post_title":true},"live_time":{"start_time":"12/17/2021 14:53:00","prefix":"这个魔法屋已经经历了 undefined 天的故事"},"danmu":{"enable":true,"el":".trm-banner"}};</script>
+<script id="async-page-config">window.PAGE_CONFIG = {"isPost":false,"isHome":false,"postUpdate":"2024-10-15 14:24:53"};</script>
+
+<!-- Theme mode css -->
+<link data-swup-theme rel="stylesheet" href="/css/index.css?v=2.2.3" id="trm-switch-style">
+<script>
+    let defaultMode = ASYNC_CONFIG.theme.default !=='auto' ?  ASYNC_CONFIG.theme.default : (window.matchMedia("(prefers-color-scheme: light)").matches ? 'style-light' : 'style-dark')
+    let catchMode = localStorage.getItem('theme-mode') || defaultMode;
+    let type = catchMode === 'style-dark' ? 'add' : 'remove';
+    document.documentElement.classList[type]('dark')
+</script>
+
+<!-- CDN -->
+
+
+    
+    
+
+
+
+<!-- Site Analytics -->
+
+ 
+
+<!-- Tags -->
+<link data-swup-theme rel="stylesheet" href="/css/tags.css">
+<!-- Custom2 -->
+<link data-swup-theme rel="stylesheet" href="/css/custom2.css">
+<meta name="generator" content="Hexo 7.3.0"><link rel="alternate" href="/atom.xml" title="汐塔魔法屋" type="application/atom+xml">
+</head>
+
+<body>
+
+  <!-- app wrapper -->
+  <div class="trm-app-frame">
+
+    <!-- page preloader -->
+    <div class="trm-preloader">
+    <div class="trm-holder">
+        <div class="preloader">
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
+    </div>
+</div>
+    <!-- page preloader end -->
+
+    <!-- change mode preloader -->
+    <div class="trm-mode-swich-animation-frame">
+    <div class="trm-mode-swich-animation">
+        <i class="i-sun"><i class="iconfont far fa-sun"></i></i>
+        <div class="trm-horizon"></div>
+        <i class="i-moon"><i class="iconfont far fa-moon"></i></i>
+    </div>
+</div>
+    <!-- change mode preloader end -->
+
+      <!-- scroll container -->
+      <div id="trm-dynamic-content" class="trm-swup-animation">
+        <div id="trm-scroll-container" class="trm-scroll-container" style="opacity: 0">
+            <!-- top bar -->
+            <header class="trm-top-bar">
+	<div class="container">
+		<div class="trm-left-side">
+			<!-- logo -->
+<a href="/" class="trm-logo-frame trm-anima-link">
+    
+        <img alt="logo" src="/images/siteicon/favicon.ico">
+    
+    
+        <div class="trm-logo-text">
+            汐塔<span>魔法屋</span>
+        </div>
+    
+</a>
+<!-- logo end -->
+		</div>
+		<div class="trm-right-side">
+			<!-- menu -->
+<div class="trm-menu">
+    <nav>
+        <ul>
+            
+            <li class="menu-item-has-children ">
+                <a  href="#" target="">
+                    站点
+                </a>
+                
+                <ul>
+                    
+                    <li>
+                        <a  href="/archives/" target="">
+                            归档
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a  href="/categories/" target="">
+                            分类
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a  href="/tags/" target="">
+                            标签
+                        </a>
+                    </li>
+                    
+                </ul>
+                
+            </li>
+            
+            <li class="menu-item-has-children ">
+                <a  href="#" target="">
+                    友链
+                </a>
+                
+                <ul>
+                    
+                    <li>
+                        <a  href="/link/" target="">
+                            友人帐
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a  href="/comments/" target="">
+                            留言板
+                        </a>
+                    </li>
+                    
+                </ul>
+                
+            </li>
+            
+            <li class="menu-item-has-children ">
+                <a  href="#" target="">
+                    关于
+                </a>
+                
+                <ul>
+                    
+                    <li>
+                        <a  href="/games/" target="">
+                            游戏库
+                        </a>
+                    </li>
+                    
+                </ul>
+                
+            </li>
+            
+            <li class="menu-item-has-children ">
+                <a  href="https://www.travellings.cn/go.html" target="_blank">
+                    开往
+                </a>
+                
+            </li>
+            
+        </ul>
+    </nav>
+</div>
+<!-- menu end -->
+			
+    <!-- mode switcher place -->
+    <div class="trm-mode-switcher-place">
+        <div class="trm-mode-switcher">
+            <i class="iconfont far fa-sun"></i>
+            <input class="tgl tgl-light" id="trm-swich" type="checkbox">
+            <label class="trm-swich" for="trm-swich"></label>
+            <i class="iconfont far fa-moon"></i>
+        </div>
+    </div>
+    <!-- mode switcher place end -->
+
+			
+    
+        <div id="trm-search-btn" class="trm-search-btn">
+            <i class="iconfont fas fa-search"></i>
+        </div>
+    
+
+		</div>
+		<div class="trm-menu-btn">
+			<span></span>
+		</div>
+	</div>
+</header>
+            <!-- top bar end -->
+
+            <!-- body -->
+            
+
+    
+<div class="trm-content-start h-entry">
+    <!-- banner -->
+    <div class="trm-banner">
+    
+    <!-- banner cover -->
+    <img style="object-position:top;object-fit:cover;" alt="banner" class="trm-banner-cover" src="/img/banner.png">
+    <!-- banner cover end -->
+    
+
+    <!-- banner content -->
+    <div class="trm-banner-content trm-overlay">
+        <div class="container">
+            <div class="row">
+                
+                    <div class="col-lg-4"></div>
+                
+                <div class="col-lg-8">
+
+                    <!-- banner title -->
+                    <div class="trm-banner-text ">
+                        <div class="trm-label trm-mb-20">
+                            Hi my new friend!
+                        </div>
+                        <h1 class="trm-mb-30 trm-hsmb-font p-name">
+                            中弦游戏库
+                        </h1>
+
+                        
+                            <ul class="trm-breadcrumbs trm-label">
+                                <li>
+                                    <a href="/" class="trm-anima-link">Home</a>
+                                </li>
+                                <li>
+                                    <span>
+                                        games
+                                    </span>
+                                </li>
+                            </ul>
+                        
+                    </div>
+                    <!-- banner title end -->
+
+                    <!-- scroll hint -->
+                    <span id="scroll-triger" class="trm-scroll-hint-frame">
+                        <div class="trm-scroll-hint"></div>
+                        <span class="trm-label">Scroll down</span>
+                    </span>
+                    <!-- scroll hint end -->
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- banner content end -->
+</div>
+    <!-- banner end -->
+    <div class="container">
+        <div class="row">
+            
+                <div class="trm-page-sidebar col-lg-4 hidden-sm">
+                    <!-- main card -->
+                    <div class="trm-main-card-frame trm-sidebar">
+    <div class="trm-main-card h-card">
+        <!-- card header -->
+<div class="trm-mc-header">
+    <div class="trm-avatar-frame trm-mb-20">
+        <img alt="Avatar" class="trm-avatar u-photo" src="/img/avatar.png">
+    </div>
+    <h5 class="trm-name trm-mb-15 p-name">
+        王九弦SZ·Ninty
+    </h5>
+    
+</div>
+<!-- card header end -->
+        <!-- sidebar social -->
+
+    <div class="trm-divider trm-mb-40 trm-mt-40"></div>
+    <div class="trm-social">
+        
+            <a href="/atom.xml" title="RSS" rel="me" target="_blank" class="u-url">
+                <i class="iconfont fas fa-rss"></i>
+            </a>
+        
+            <a href="https://github.com/SinzMise" title="Github" rel="me" target="_blank" class="u-url">
+                <i class="iconfont fab fa-github"></i>
+            </a>
+        
+    </div>
+
+<!-- sidebar social end -->
+        <!-- info -->
+<div class="trm-divider trm-mb-40 trm-mt-40"></div>
+<ul class="trm-table trm-mb-20">
+    
+        <li>
+            <div class="trm-label">
+                邮件:
+            </div>
+            <div class="trm-label trm-label-light u-email">
+                email@sinzmise.top
+            </div>
+        </li>
+    
+        <li>
+            <div class="trm-label">
+                省份:
+            </div>
+            <div class="trm-label trm-label-light p-region">
+                广东
+            </div>
+        </li>
+    
+        <li>
+            <div class="trm-label">
+                城市:
+            </div>
+            <div class="trm-label trm-label-light p-locality">
+                潮州
+            </div>
+        </li>
+    
+</ul>
+<!-- info end -->
+        
+    <div class="trm-divider trm-mb-40 trm-mt-40"></div>
+    <!-- action button -->
+    <div class="text-center">
+        <a href="mailto:email@sinzmise.top" class="trm-btn">
+            联系我
+            <i class="iconfont far fa-envelope"></i>
+        </a>
+    </div>
+    <!-- action button end -->
+
+    </div>
+</div>
+                    <!-- main card end -->
+                </div>
+            
+            <div class="trm-page-content col-lg-8">
+                <div id="trm-content" class="trm-content">
+                    
+<blockquote>
+    <p>生命不息，游戏不止！</p>
+</blockquote>
+
+
+<style>
+    .bangumi-tabs{margin-bottom:15px;margin-top:15px}.bangumi-tab{padding:5px}a.bangumi-tab{text-decoration:none}.bangumi-active{background:#657b83;color:#fff}.bangumi-item{position:relative;clear:both;padding:10px 0;border-bottom:1px solid #ddd;min-height:180px}@media screen and (max-width:600px){.bangumi-item{width:100%}}.bangumi-picture{position:absolute;left:0;top:10px;width:110px}.bangumi-picture img{margin:10px 0}.bangumi-info{padding-left:120px;margin-top:10px;min-height:160px}.bangumi-meta{font-size:12px;padding-right:10px;height:45px}.bangumi-summary{font-size:12px;margin-top:10px}.bangumi-summary>p{word-break:break-all;text-overflow:ellipsis;overflow:hidden;white-space:normal;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3}.bangumi-comments{font-size:12px}.bangumi-pagination{margin-top:15px;text-align:center;margin-bottom:10px}.bangumi-button{padding:5px}.bangumi-button:hover{background:#657b83;color:#fff}.bangumi-hide{display:none}.bangumi-show{display:block}.bangumi-title{font-size:18px;font-weight:700}.bangumi-title a{line-height:1;text-decoration:none}.bangumi-info-items{font-size:12px;color:#2fd8d8;padding-top:10px;line-height:1;float:left;width:100%}.bangumi-info-item{display:inline-block;width:13%;border-right:1px solid #2fd8d8;text-align:center;height:34px}.bangumi-info-label{display:block;line-height:12px}.bangumi-info-item em{display:block;padding-top:6px;line-height:17px;font-style:normal;font-weight:700}.bangumi-info-total{padding-top:11px;display:block;line-height:12px;font-weight:700}.bangumi-info-item-score{border-right:1px solid #0000;width:50px}.bangumi-info-label-em{color:transparent;opacity:0;visibility:hidden;line-height:6px!important;padding:0!important}@media (max-width:650px){.bangumi-coin,.bangumi-type{display:none}.bangumi-info-item{width:16%}}@media (max-width:590px){.bangumi-danmaku,.bangumi-wish{display:none}.bangumi-info-item{width:19%}}@media (max-width:520px){.bangumi-doing,.bangumi-play{display:none}.bangumi-info-item{width:24%}}@media (max-width:480px){.bangumi-collect,.bangumi-follow{display:none}.bangumi-info-item{width:30%}}@media (max-width:400px){.bangumi-area{display:none}.bangumi-info-item{width:45%}}.bangumi-my-comments{border:1px dashed #8f8f8f;padding:3px;border-radius:5px}.bangumi-starstop{background:url(https://cdn.jsdelivr.net/npm/hexo-bilibili-bangumi@1.7.9/lib/img/rate_star_2x.png) 100% 100%/10px 19.5px repeat-x;height:10px;width:50px;display:inline-block;float:none}.bangumi-starlight{background:url(https://cdn.jsdelivr.net/npm/hexo-bilibili-bangumi@1.7.9/lib/img/rate_star_2x.png) 0 0/10px 19.5px repeat-x;height:10px;display:block;width:100%}.bangumi-starlight.stars1{width:5px}.bangumi-starlight.stars2{width:10px}.bangumi-starlight.stars3{width:15px}.bangumi-starlight.stars4{width:20px}.bangumi-starlight.stars5{width:25px}.bangumi-starlight.stars6{width:30px}.bangumi-starlight.stars7{width:35px}.bangumi-starlight.stars8{width:40px}.bangumi-starlight.stars9{width:45px}.bangumi-starlight.stars10{width:50px}.bangumi-info .bangumi-progress{width:100%;height:24px;background-color:#f2f2f2;border-radius:5px;overflow:hidden;font-size:16px;text-align:center;position:relative}.bangumi-info .bangumi-progress-text{z-index:100;position:relative;color:#3c4858;line-height:24px}.bangumi-info .bangumi-progress .progress-bar{z-index:50;height:100%;background-color:#007bffad;border-radius:5px;position:absolute;top:0}
+    
+</style>
+<div class="bangumi-tabs">
+    <a class="bangumi-tab" id="bangumi-tab1" href="javascript:;" rel="external" target="_self" onclick="return false">
+    想玩
+    (0)</a>
+    <a class="bangumi-tab" id="bangumi-tab2" href="javascript:;" rel="external" target="_self" onclick="return false">
+        在玩
+        (3)</a>
+    <a class="bangumi-tab" id="bangumi-tab3" href="javascript:;" rel="external" target="_self" onclick="return false">
+        玩过
+        (0)</a>
+</div>
+<div>
+    <div id="bangumi-item1">
+        
+        
+        <div class="bangumi-pagination">
+    <a class="bangumi-button bangumi-firstpage" href="javascript:;" target="_self" onclick="return false"> 首页</a>
+    <a class="bangumi-button bangumi-previouspage" href="javascript:;" target="_self" onclick="return false">上一页</a>
+    <span class="bangumi-pagenum">2 / 3</span>
+    <a class="bangumi-button bangumi-nextpage" href="javascript:;" target="_self" onclick="return false">下一页</a>
+    <a class="bangumi-button bangumi-lastpage" href="javascript:;" target="_self" onclick="return false">尾页</a>
+</div>
+        
+    </div>
+    <div id="bangumi-item2">
+        
+        
+        <div class="bangumi-item">
+    <div class="bangumi-picture"><img src="/img/load-games.gif"  data-src="https://img.noobzone.ru/getimg.php?url=https://lain.bgm.tv/r/400/pic/cover/l/b2/00/208415_9u4eO.jpg" referrerPolicy="no-referrer" width="110" style="width:110px;margin:20px auto;" />
+    </div>
+    <div class="bangumi-info">
+        <div class="bangumi-title">
+            <a target="_blank" href="https://bangumi.tv/subject/208415">BanG Dream! 少女乐团派对！</a>
+        </div>
+        <div class="bangumi-meta">
+            <span class="bangumi-info-items" >
+                
+                <span class="bangumi-info-item bangumi-type">
+                    <span class="bangumi-info-label">类型</span> <em>游戏</em>
+                </span>
+                <span class="bangumi-info-item bangumi-tag">
+                    <span class="bangumi-info-label">标签</span> <em>音游</em>
+                </span>
+                <span class="bangumi-info-item bangumi-info-item-follow">
+                    <span class="bangumi-info-label">关注</span> <em>
+                        1528
+                    </em>
+                </span>
+                <span class="bangumi-info-item bangumi-info-item-score">
+                    <span class="bangumi-info-label">评分</span>
+                    <em>7.4</em>
+                </span>
+            </span>
+        </div>
+        
+        <div class="bangumi-summary" >
+            <p>
+                简介：「BanG Dream!（バンドリ！）」がリズムゲームになって登場！...
+            </p>
+        </div>
+    </div>
+    
+</div>
+
+        
+        <div class="bangumi-item">
+    <div class="bangumi-picture"><img src="/img/load-games.gif"  data-src="https://img.noobzone.ru/getimg.php?url=https://lain.bgm.tv/r/400/pic/cover/l/5e/2d/482314_p2UWW.jpg" referrerPolicy="no-referrer" width="110" style="width:110px;margin:20px auto;" />
+    </div>
+    <div class="bangumi-info">
+        <div class="bangumi-title">
+            <a target="_blank" href="https://bangumi.tv/subject/482314">学园偶像大师</a>
+        </div>
+        <div class="bangumi-meta">
+            <span class="bangumi-info-items" >
+                
+                <span class="bangumi-info-item bangumi-type">
+                    <span class="bangumi-info-label">类型</span> <em>游戏</em>
+                </span>
+                <span class="bangumi-info-item bangumi-tag">
+                    <span class="bangumi-info-label">标签</span> <em>偶像大师</em>
+                </span>
+                <span class="bangumi-info-item bangumi-info-item-follow">
+                    <span class="bangumi-info-label">关注</span> <em>
+                        646
+                    </em>
+                </span>
+                <span class="bangumi-info-item bangumi-info-item-score">
+                    <span class="bangumi-info-label">评分</span>
+                    <em>7.2</em>
+                </span>
+            </span>
+        </div>
+        
+        <div class="bangumi-summary" >
+            <p>
+                简介：2024年に誕生した、『アイドルマスター』シリーズの最新作。
+プレイヤーはアイドル養成学校『初星学園』に入学し、プロデューサーとして様々な問題と魅力を抱えたアイドル候補生たちをプロデュースします。
+アイドル養成学校『初星学園』に入学して...
+            </p>
+        </div>
+    </div>
+    
+</div>
+
+        
+        <div class="bangumi-item">
+    <div class="bangumi-picture"><img src="/img/load-games.gif"  data-src="https://img.noobzone.ru/getimg.php?url=https://lain.bgm.tv/r/400/pic/cover/l/cb/f2/310675_uO3aP.jpg" referrerPolicy="no-referrer" width="110" style="width:110px;margin:20px auto;" />
+    </div>
+    <div class="bangumi-info">
+        <div class="bangumi-title">
+            <a target="_blank" href="https://bangumi.tv/subject/300648">蔚蓝档案</a>
+        </div>
+        <div class="bangumi-meta">
+            <span class="bangumi-info-items" >
+                
+                <span class="bangumi-info-item bangumi-type">
+                    <span class="bangumi-info-label">类型</span> <em>游戏</em>
+                </span>
+                <span class="bangumi-info-item bangumi-tag">
+                    <span class="bangumi-info-label">标签</span> <em>手游</em>
+                </span>
+                <span class="bangumi-info-item bangumi-info-item-follow">
+                    <span class="bangumi-info-label">关注</span> <em>
+                        2547
+                    </em>
+                </span>
+                <span class="bangumi-info-item bangumi-info-item-score">
+                    <span class="bangumi-info-label">评分</span>
+                    <em>7.3</em>
+                </span>
+            </span>
+        </div>
+        
+        <div class="bangumi-summary" >
+            <p>
+                简介：分佈在學園城市各個地區的&lt;學園&gt;
+基本上被認定爲獨立的行政自治區域。
+
+由總管理奇普托斯的
+一種聯邦政府的總學生會
+管理並控制&lt;學園&gt;的構造。
+但是由於總學生會長突然地失蹤，
+總學生會陷入癱瘓的狀態，
+倚靠總學生會長超乎常人...
+            </p>
+        </div>
+    </div>
+    
+</div>
+
+        
+        <div class="bangumi-pagination">
+    <a class="bangumi-button bangumi-firstpage" href="javascript:;" target="_self" onclick="return false"> 首页</a>
+    <a class="bangumi-button bangumi-previouspage" href="javascript:;" target="_self" onclick="return false">上一页</a>
+    <span class="bangumi-pagenum">2 / 3</span>
+    <a class="bangumi-button bangumi-nextpage" href="javascript:;" target="_self" onclick="return false">下一页</a>
+    <a class="bangumi-button bangumi-lastpage" href="javascript:;" target="_self" onclick="return false">尾页</a>
+</div>
+        
+    </div>
+    <div id="bangumi-item3">
+        
+        
+        <div class="bangumi-pagination">
+    <a class="bangumi-button bangumi-firstpage" href="javascript:;" target="_self" onclick="return false"> 首页</a>
+    <a class="bangumi-button bangumi-previouspage" href="javascript:;" target="_self" onclick="return false">上一页</a>
+    <span class="bangumi-pagenum">2 / 3</span>
+    <a class="bangumi-button bangumi-nextpage" href="javascript:;" target="_self" onclick="return false">下一页</a>
+    <a class="bangumi-button bangumi-lastpage" href="javascript:;" target="_self" onclick="return false">尾页</a>
+</div>
+        
+    </div>
+</div>
+<script>
+    (function () {
+    
+    const bangumiLazyload = true;
+    "use strict";/* eslint-disable no-plusplus */(function(){// eslint-disable-next-line func-style
+function a(){this.classList.add("bangumi-active");for(var a=this.siblings(),b=0;b<a.length;b++)a[b].classList.remove("bangumi-active");// 显示对应板块
+var c=this.id.replace("tab","item"),d=document.getElementById(c);d.classList.remove("bangumi-hide"),d.classList.add("bangumi-show"),a=document.getElementById(c).siblings();for(var e=0;e<a.length;e++)a[e].classList.remove("bangumi-show"),a[e].classList.add("bangumi-hide")}Element.prototype.siblings=function(){for(var a=[],b=this.parentNode.children,c=0;c<b.length;c++)b[c]!==this&&a.push(b[c]);return a};for(var b=document.getElementsByClassName("bangumi-tab"),c=0;c<b.length;c++)b[c].onclick=a,b[c].onclick.apply(b[c]);"undefined"!=typeof pagenumsPre&&axios.get(new URL("../bangumis.json",window.location.href)).then(function(a){if(a.data){var b={wantWatch:a.data.wantWatch.slice(10).map(function(a){return ejs.render(ejsTemplate,{item:a,loading:loading,metaColor:metaColor,type:type})}).join("\n"),watching:a.data.watching.slice(10).map(function(a){return ejs.render(ejsTemplate,{item:a,loading:loading,metaColor:metaColor,type:type})}).join("\n"),watched:a.data.watched.slice(10).map(function(a){return ejs.render(ejsTemplate,{item:a,loading:loading,metaColor:metaColor,type:type})}).join("\n")};document.querySelectorAll("#bangumi-item1>.bangumi-pagination")[0].insertAdjacentHTML("beforeBegin",b.wantWatch),document.querySelectorAll("#bangumi-item2>.bangumi-pagination")[0].insertAdjacentHTML("beforeBegin",b.watching),document.querySelectorAll("#bangumi-item3>.bangumi-pagination")[0].insertAdjacentHTML("beforeBegin",b.watched)}})})();
+
+    document.getElementsByClassName('bangumi-tab')[1].click();
+    /* eslint-disable no-plusplus, func-style */(function(){var a=Math.ceil;function b(b,c){return`${b+1} / ${a(0==c.length/10?1:a(c.length/10))}`}function c(){const a=this.parentNode.siblings();g(a,0),this.parentNode.getElementsByClassName("bangumi-pagenum")[0].innerText=b(0,a)}function d(){const a=this.parentNode.siblings();let c=this.parentNode.getElementsByClassName("bangumi-pagenum")[0].innerText;c=c.substr(0,c.indexOf("/")-1),c=parseInt(c,10)-1,0<c&&c--,g(a,c),this.parentNode.getElementsByClassName("bangumi-pagenum")[0].innerText=b(c,a)}function e(){const c=this.parentNode.siblings();let d=this.parentNode.getElementsByClassName("bangumi-pagenum")[0].innerText;d=d.substr(0,d.indexOf("/")-1),d=parseInt(d,10)-1,d<a(c.length/10)-1&&d++,g(c,d),this.parentNode.getElementsByClassName("bangumi-pagenum")[0].innerText=b(d,c)}function f(){const c=this.parentNode.siblings();g(c,a(c.length/10)-1),this.parentNode.getElementsByClassName("bangumi-pagenum")[0].innerText=b(-1==a(c.length/10)-1?0:a(c.length/10)-1,c)}function g(a,b){for(let c=0;c<a.length;c++)if(Math.floor(c/10)===b){a[c].classList.remove("bangumi-hide");const[b]=a[c].getElementsByTagName("img");bangumiLazyload&&(b.src=b.getAttribute("data-src"))}else a[c].classList.add("bangumi-hide")}const h=document.getElementsByClassName("bangumi-firstpage"),j=document.getElementsByClassName("bangumi-previouspage"),k=document.getElementsByClassName("bangumi-nextpage"),l=document.getElementsByClassName("bangumi-lastpage"),m=document.getElementsByClassName("bangumi-pagenum");for(let b=0;b<h.length;b++){h[b].onclick=c,j[b].onclick=d,k[b].onclick=e,l[b].onclick=f;// set page num
+const g="undefined"==typeof pagenumsPre?m[b].parentNode.siblings().length:pagenumsPre[b]??m[b].parentNode.siblings().length;h[b].click(),m[b].innerText=`1 / ${0===a(g/10)?1:a(g/10)}`}})();
+
+    })();
+</script>
+
+
+                    <div class="trm-divider footer-divider"></div>
+
+                    <!-- footer -->
+                    <footer class="trm-footer-card trm-scroll-animation">
+
+    
+        <div class="trm-footer-item">
+            <a target="_blank" rel="noopener" href="https://xn--sr8hvo.ws/previous">←</a> An&nbsp;<a target="_blank" rel="noopener" href="https://xn--sr8hvo.ws">IndieWeb Webring</a>&nbsp;🕸💍 <a target="_blank" rel="noopener" href="https://xn--sr8hvo.ws/next">→</a>
+        </div>
+    
+
+    
+
+    
+        <div class="trm-footer-item">
+            <span>© 2021 - 2024</span>
+            <span class="footer-separator"data-separator=" · "></span>
+            <span class="trm-accent-color">王九弦SZ·Ninty</span>
+        </div>
+    
+
+    
+        <div class="trm-footer-item">
+            <span>
+                由 <a href="https://hexo.io" target="_blank" rel="noopener">Hexo</a> 驱动 v7.3.0
+            </span>
+            <span class="footer-separator" data-separator=" | "></span>
+            <span>
+                主题 -
+                <a rel="noopener" href='https://github.com/MaLuns/hexo-theme-async' target='_blank'>Async</a>
+                v2.2.3
+            </span>
+        </div>
+    
+
+    
+        <div class="trm-footer-item blog-run-long"></div>
+    
+
+    
+        <div class="trm-footer-item">
+            <p> <a href="https://icp.gov.moe/?keyword=20231033" target="_blank">萌ICP备20231033号</a>&nbsp;| <a target="_blank" href="https://beian.miit.cn.com/gov/search.php?query=blog.sinzmise.top" title="MIIT备20240818号">MIIT备20240818号</a>&nbsp;| <a target="_blank" rel="noopener" href="https://guan.ma/hao/2024000155/" title="官码2024000155号"><img src="https://style.wmou.com/images/guanma.png" alt="官码" width="9">官码2024000155号</a> </p> <p> <span>我加入的：</span> <a href="https://zhblogs.ohyee.cc/" target="_blank">中文博客列表</a>&nbsp;| <a href="https://storeweb.cn/member/o/1585" target="_blank">个站商店</a>&nbsp;| <a href="https://bf.zzxworld.com/s/995" target="_blank">BlogFinder</a>&nbsp;| <a href="https://sites.link/site-info?siteType=life&siteId=64cb373190e35300a8eec654" target="_blank">站点聚合平台</a>&nbsp;| <a href="https://boke.lu" target="_blank">博客录</a>&nbsp;| <a href="https://rssblog.cn/member/d711afd659d65c2ba2d3b18697818cf7/" target="_blank">RssBlog</a>&nbsp;| <a href="https://blogscn.fun" target="_blank">笔墨迹</a>&nbsp;| <a href="https://forever.dreamerhe.cn/" target="_blank">梦境列车</a>&nbsp;| <a href="https://firewood.news/" target="_blank">积薪</a>&nbsp;| <a href="https://daohang.lusongsong.com/" target="_blank">博客大全</a> </p>
+        </div>
+    
+</footer>
+                    <!-- footer end -->
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+            <!-- body end -->
+
+            
+
+            
+<div class="trm-fixed-container">
+    
+    
+    
+    <div id="trm-back-top" class="trm-fixed-btn" data-title="回到顶部">
+        <i class="iconfont fas fa-arrow-up"></i>
+    </div>
+</div>
+        </div>
+      </div>
+      <!-- scroll container end -->
+  </div>
+  <!-- app wrapper end -->
+
+  
+    
+        <div class="docsearch-wrap">
+            <div id="docsearch" style="display:none"></div>
+        </div>
+        
+<link rel="stylesheet" href="https://jsd.cdn.storisinz.site/npm/@docsearch/css/dist/style.min.css">
+
+        
+<script src="https://jsd.cdn.storisinz.site/npm/@docsearch/js/dist/umd/index.min.js"></script>
+
+        <script>
+            (() => {
+                docsearch({
+                    ...{"appId":"QAS05YI2PH","apiKey":"67ffd4c9fa1234148ec4f8b27dfdb2a7","indexName":"sinzmise"},
+                    container: '#docsearch'
+                })
+
+                const handleClick = () => {
+                    document.querySelector('.DocSearch-Button').click()
+                }
+
+                const searchClickFn = () => {
+                    document.querySelector('#trm-search-btn').addEventListener('click', handleClick)
+                }
+
+                searchClickFn()
+                window.addEventListener('pjax:complete', searchClickFn)
+            })()
+        </script>
+    
+
+  <!-- Plugin -->
+
+
+
+
+    
+<script src="https://jsd.cdn.storisinz.site/npm/swup@2.0.19/dist/swup.min.js"></script>
+
+    
+<script src="https://jsd.cdn.storisinz.site/npm/@fancyapps/ui@4.0/dist/fancybox.umd.js"></script>
+
+    
+
+    
+
+    <!-- 数学公式 -->
+    
+
+    
+        <script src="/js/plugins/danmu.js?v=2.2.3"></script>
+    
+
+
+
+    <!-- Service Worker -->
+    
+    <script>
+        (async () => {//使用匿名函数确保body已载入
+            /*
+            CetaHouseHelper_Set 存储在LocalStorage中,用于指示sw安装状态
+            0 或不存在 未安装
+            1 已打断
+            2 已安装
+            3 已激活,并且已缓存必要的文件(此处未写出,无需理会)
+            */
+            const $ = document.querySelector.bind(document);//语法糖
+            if ('serviceWorker' in navigator) { //如果支持sw
+                if (Number(window.localStorage.getItem('CetaHouseHelper_Set')) < 1) {
+                    window.localStorage.setItem('CetaHouseHelper_Set', 1)
+                    window.stop()
+                    document.body.innerHTML = await (await fetch('/load.html')).text()
+                }
+                navigator.serviceWorker.register(`/serviceworker.js?time=${Math.ceil(Math.random()*10000000000000000000)}`)//随机数,强制更新
+                    .then(async () => {
+                        if (Number(window.localStorage.getItem('CetaHouseHelper_Set')) < 2) {
+                            setTimeout(() => {
+                                window.localStorage.setItem('CetaHouseHelper_Set', 2)
+                                //window.location.search = `?time=${ranN(1, 88888888888888888888)}` //已弃用,在等待500ms安装成功后直接刷新没有问题
+                                window.location.reload()//刷新,以载入sw
+                            }, 500)//安装后等待500ms使其激活
+                        }
+                    })
+                    .catch(err => console.error(`CetaHouseHelperError:${err}`))
+            }
+
+        })()
+    </script>
+
+    <!-- baidu push -->
+    
+
+
+<script id="async-script" src="/js/main.js?v=2.2.3"></script>
+
+<!-- CDN -->
+
+
+    
+
+    
+
+    
+
+
+
+</body>
+
+</html>
