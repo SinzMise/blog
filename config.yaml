@@ -1,0 +1,24 @@
+name: CetaHouseCache
+catch_rules:
+  - rule: _ #ClientWorker语法糖，匹配当前域，返回一个域名带端口
+    transform_rules: #转换规则，最上面的优先最高
+      - search: \#.* #在发送请求时匹配#后内容并移除
+        replace: ''
+      - search: \?.* #在发送请求时匹配?后内容并移除，仅限静态请求
+        replace: ''
+      - search: _
+        replace:
+          - _ #保留原始请求
+          - jsd.cdn.storisinz.site/npm/sinzmise-cetastories-en #NPM托管
+
+      - search: \.html$
+        header:
+          Content-Type: text/html;charset=UTF-8 #修复标头
+
+      - search: _
+        action: fetch
+        fetch:
+          status: 200
+          engine: classic
+          preflight: false
+          timeout: 5000
