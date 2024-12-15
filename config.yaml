@@ -1,0 +1,26 @@
+name: CetaHouseCache
+catch_rules:
+  - rule: ^https\:\/\/((cdn|fastly|gcore|test1|quantil)\.jsdelivr\.net\/npm|unpkg\.com)
+    transform_rules:
+      - search: _
+        replace:
+          - _
+          - https://jsd.cdn.storisinz.site/npm
+          - https://npm.webcache.cn
+
+  - rule: ^https\:\/\/cdnjs\.cloudflare\.com\/ajax\/libs
+    transform_rules:
+      - search: _
+        replace:
+          - _
+          - https://cdnjs.webstatic.cn/ajax/libs
+          - https://cdnjs.cdn.storisinz.site/ajax/libs
+          - https://cdnjs.onmicrosoft.cn/ajax/libs
+
+  - rule: ^https\:\/\/((cdn|fastly|gcore|test1|quantil)\.jsdelivr\.net\/gh)
+    transform_rules:
+      - search: _
+        replace:
+          - _
+          - https://jsd.cdn.storisinz.site/gh
+          - https://code.webcache.cn/gh
