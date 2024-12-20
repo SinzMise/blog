@@ -37,7 +37,7 @@ gulp.task('minify-css', () => {
         .pipe(cleanCSS({
             compatibility: 'ie11'
         }))
-        .pipe(gulp.dest('./public'));
+        .pipe(gulp.dest('./public/css'));
 });
 
 
