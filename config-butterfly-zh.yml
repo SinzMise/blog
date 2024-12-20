@@ -457,7 +457,7 @@ crisp:
 footer:
   marquee:
     enable: true
-    text: '12/15更新：1.更新底部跑马灯 2.添加团ICP备案号 3.CDN支持ipv6访问 4.添加动态分类标签页 5.更换Qexo友链申请为人机验证为Recaptcha' 
+    text: '12/20更新：1.修复手机端Menus错位的问题 2.优化WebMention发送按钮 3.WebMention彻底支持Pjax' 
   owner:
     enable: false
     since: 2021
