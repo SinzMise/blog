@@ -164,24 +164,6 @@
   </url>
   
   <url>
-    <loc>https://blog.sinzmise.top/album/</loc>
-    
-    <lastmod>2024-12-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.sinzmise.top/about/</loc>
-    
-    <lastmod>2024-12-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.sinzmise.top/posts/42580/</loc>
     
     <lastmod>2024-12-20</lastmod>
@@ -561,6 +543,24 @@
   
   <url>
     <loc>https://blog.sinzmise.top/posts/38964/</loc>
+    
+    <lastmod>2024-12-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sinzmise.top/album/</loc>
+    
+    <lastmod>2024-12-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sinzmise.top/about/</loc>
     
     <lastmod>2024-12-20</lastmod>
     
