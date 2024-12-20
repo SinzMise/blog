@@ -37,8 +37,8 @@ div
     if commentsJsLoad
       include ./third-party/comments/js.pug
 
-  if theme.indieweb.enable && theme.indieweb.webmention.enable && page.webmention !== false
-    script(data-pjax async src='https://jsd.cdn.storisinz.site/gh/PlaidWeb/webmention.js@main/static/webmention.min.js')
+    if theme.indieweb.enable && theme.indieweb.webmention.enable && page.webmention !== false
+      !=partial('includes/third-party/webmentionjs', {}, {cache: true})
 
   != partial("includes/third-party/prismjs", {}, { cache: true })
 

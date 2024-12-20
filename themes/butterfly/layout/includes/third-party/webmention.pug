@@ -7,8 +7,8 @@ hr
 
   .comment-wrap
     #webmentions
-    form.webmention-form(action=url_for(theme.indieweb.webmention.endpoint) method="post" style="margin: 2ch 0;")
-      label(for="source")=_p('webmention.webmention_submit')
-      input.url(name="source" placeholder="Your URL" required="" type="url")
-      input(name="target" type="hidden" value=urlNoIndex())
-      input(style="background:var(--font-color);" type="submit" value=_p('webmention.webmention_status.submit'))
+    form.webmention-input-group(action=url_for(theme.indieweb.webmention.endpoint) method="post" style="margin: 2ch 0;")
+      label.webmention-label(for="source")=_p('webmention.webmention_submit')
+      input.webmention-input(name="source" placeholder="Your URL" required="" type="url")
+      input.webmention-input(name="target" type="hidden" value=urlNoIndex())
+      input.webmention-input(style="background:var(--font-color);" type="submit" value=_p('webmention.webmention_status.submit'))

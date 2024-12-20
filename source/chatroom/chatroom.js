@@ -1,7 +1,3 @@
-window.openChatWindow = function (url) {
-    window.open(url, '_blank', 'width=450,height=650,scrollbars=yes');
-  };
-  
   const chatroom = {
     userAvatarMap: new Map(),
     avatarIndex: 0,
