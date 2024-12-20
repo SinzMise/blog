@@ -4,9 +4,9 @@ script.
     if (document.getElementById('webmentionjs') != null) {
       document.getElementById('webmentionjs').remove();
       loadWebMention()
-    }else {
+    } else {
       let ele = document.createElement('script')
-      ele.setAttribute('src','https://jsd.cdn.storisinz.site/gh/PlaidWeb/webmention.js@main/static/webmention.min.js')
+      ele.setAttribute('src','/js/webmention.js')
       ele.setAttribute('id', 'webmentionjs')
       document.getElementById('webmen-root').insertAdjacentElement('afterbegin',ele)
     }   
