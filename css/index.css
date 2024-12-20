@@ -13858,6 +13858,35 @@ hr:before {
       margin: 0 2ch
   }
 }
+
+.webmention-input {
+  max-width: 190px;
+  height: 44px;
+  background-color: var(--anzhiyu-secondtext);
+  border-radius: .5rem;
+  padding: 0 1rem;
+  border: 2px solid transparent;
+  font-size: 1rem;
+  transition: border-color .3s cubic-bezier(.25,.01,.25,1) 0s, color .3s cubic-bezier(.25,.01,.25,1) 0s,background .2s cubic-bezier(.25,.01,.25,1) 0s;
+}
+
+.webmention-label {
+  display: block;
+  margin-bottom: .3rem;
+  font-size: .9rem;
+  font-weight: bold;
+  color: var(--anzhiyu-fontcolor);
+  transition: color .3s cubic-bezier(.25,.01,.25,1) 0s;
+}
+
+.webmention-input:hover, .webmention-input:focus, .webmention-input-group:hover .webmention-input {
+  outline: none;
+  border-color: var(--anzhiyu-reverse);
+}
+
+.webmention-input-group:hover .webmention-label, .webmention-input:focus {
+  color: var(--anzhiyu-scrollbar);
+}
 :root{
     --heo-white: #fff;
     --heo-black: #000;
