@@ -1,0 +1,15 @@
+.DocSearch-Input{
+    margin-bottom: 0!important;
+}
+.menus_item_child li:not(#sidebar-menus li){
+    float: left;
+    border-radius: 6px!important;
+    -webkit-border-radius: 6px!important;
+    -moz-border-radius: 6px!important;
+    -ms-border-radius: 6px!important;
+    -o-border-radius: 6px!important;
+}
+.menus_item_child:not(#sidebar-menus ul){
+  left:50%;
+  translate:-50%;
+}
