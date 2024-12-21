@@ -76,21 +76,4 @@ workbox.routing.registerRoute(
     })
 );
 
-// cdnjs代理的CDN资源
-workbox.routing.registerRoute(
-    /^https:\/\/cdnjs\.cdn\.storisinz\.site/,
-    new workbox.strategies.CacheFirst({
-        cacheName: "static-libs-cdnjs",
-        plugins: [
-            new workbox.expiration.ExpirationPlugin({
-                maxEntries: 1000,
-                maxAgeSeconds: 60 * 60 * 24 * 30
-            }),
-            new workbox.cacheableResponse.CacheableResponsePlugin({
-                statuses: [0, 200]
-            })
-        ]
-    })
-);
-
 workbox.googleAnalytics.initialize();
