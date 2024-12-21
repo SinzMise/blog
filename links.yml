@@ -570,6 +570,11 @@
           avatar: https://jsd.cdn.storisinz.site/npm/@floatsheep/fsl-fim@1.0.23/avatar%202024.main.webp
           descr: On the other side of obstacles
           siteshot: https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://blog.hesiy.cn
+        - name: 云团子的博客
+          link: https://www.yuncheng.fun/
+          avatar: https://www.yuncheng.fun/static/webAvatar/11727945933180571.png
+          descr: 欸，是谁家的小可爱？
+          siteshot: https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.yuncheng.fun/
 - class_name: 友谊长存
   class_desc: 无评论系统的博客（相识即是缘分）
   flink_style: butterfly
