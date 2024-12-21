@@ -53,15 +53,6 @@ jobs:
           git clone -b zh git@github.com:SinzMise/blog .deploy_git
           yarn deployzh
 
-      - name: Upload json
-        run: |
-          curl -X DELETE 'https://meili.search.blog.sinzmise.top/indexes/hexo/documents' \
-              -H "Authorization: Bearer ${{secrets.MEILISEARCH_KEY}}"
-          curl -X POST 'https://meili.search.blog.sinzmise.top/indexes/hexo/documents' \
-              -H "Authorization: Bearer ${{secrets.MEILISEARCH_KEY}}" \
-              -H "Content-Type: application/json" \
-              --data-binary '@public/content.json'
-
       - name: NPM Publish Pre Set
         run: |
           node ./prescripts/pkgpublish.mjs
