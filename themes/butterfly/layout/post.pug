@@ -17,7 +17,7 @@ block content
                 svg.faa-tada.icon(style="height:1.1em;width:1.1em;fill:currentColor;position:relative;top:2px;margin-right:3px" aria-hidden="true")
                   use(xlink:href='#icon-sekuaibiaoqian')
               =item.name
-      //- include includes/third-party/share/index.pug
+      include includes/third-party/share/index.pug
         
     if theme.reward.enable && theme.reward.QR_code
       !=partial('includes/post/reward', {}, {cache: true})
