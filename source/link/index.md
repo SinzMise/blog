@@ -96,6 +96,12 @@ aside: false
           avatar: https://wxweb.xyz/wp-content/uploads/2024/05/1716211806-mmexport1716211797071.jpg
           link: https://wxweb.xyz
           siteshot: https://image.thum.io/get/allowJPG/wait/20/width/600/crop/950/https://wxweb.xyz
+        # sawr.gitee.io无法访问，新域名没搞友链（估计没做完）
+        - name: 奥奥の探索日记
+          link: https://blog.shaoao.top
+          avatar: https://cccimg.com/view.php/f8a4b6199c0c036da1f160b12d01f50d.jpg
+          descr: 闪耀的时代 会为你而来
+          siteshot: https://npm.elemecdn.com/anzhiyu-blog@1.1.6/img/post/common/anzhiy.cn.jpg
 ```
 （既然“小伙伴们”的友情链接超过10条，那么是时候该提一下添加要求了）
 # 本站添加友链要求
