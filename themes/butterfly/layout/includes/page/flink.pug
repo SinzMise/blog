@@ -115,6 +115,22 @@
                   img.no-lightbox(src=url_for(item.avatar) onerror=`this.onerror=null;this.src='` + url_for(theme.error_img.flink) + `'` alt='' )
                   span.title= item.name
                   span.desc(title=item.descr)= item.descr
+        else if i.flink_style === 'byer'
+          .byer-flink-list
+            each item in i.link_list
+              .flink-list-item
+                a(href=url_for(item.link)  title=item.name target="_blank")
+                  .flink-item-bar
+                    sapn.flink-item-bar-yellow 
+                    sapn.flink-item-bar-green 
+                    sapn.flink-item-bar-red
+                    sapn.flink-item-bar-x +
+                  .flink-item-content
+                    .flink-item-text
+                      .flink-item-name= item.name 
+                      .flink-item-desc(title=item.descr)= item.descr
+                    .flink-item-icon
+                      img.no-lightbox(src=url_for(item.avatar) onerror=`this.onerror=null;this.src='` + url_for(theme.error_img.flink) + `'` alt=item.name )
         else
           .butterfly-flink-list
             each item in i.link_list
