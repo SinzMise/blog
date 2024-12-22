@@ -332,6 +332,70 @@ function addStatusTagsWithCache(jsonUrl) {
                 card.appendChild(statusTag);
             }
         });
+        document.querySelectorAll('.flink-list-item').forEach(card => { // 一定要注意这里的类名，小心匹配不上
+            if (!card.href) return;
+            const link = card.href.replace(/\/$/, '');
+            const statusTag = document.createElement('div');
+            statusTag.classList.add('status-tag');
+            let matched = false;
+            // 查找链接状态
+            const status = linkStatus.find(item => item.link.replace(/\/$/, '') === link);
+            if (status) {
+                let latencyText = '未知';
+                let className = 'status-tag-red'; // 默认红色
+                if (status.latency === -1) {
+                    latencyText = '未知';
+                } else {
+                    latencyText = status.latency.toFixed(2) + ' s';
+                    if (status.latency <= 2) {
+                        className = 'status-tag-green';
+                    } else if (status.latency <= 5) {
+                        className = 'status-tag-light-yellow';
+                    } else if (status.latency <= 10) {
+                        className = 'status-tag-dark-yellow';
+                    }
+                }
+                statusTag.textContent = latencyText;
+                statusTag.classList.add(className);
+                matched = true;
+            }
+            if (matched) {
+                card.style.position = 'relative';
+                card.appendChild(statusTag);
+            }
+        });
+        document.querySelectorAll('.flink-list-card').forEach(card => { // 一定要注意这里的类名，小心匹配不上
+            if (!card.href) return;
+            const link = card.href.replace(/\/$/, '');
+            const statusTag = document.createElement('div');
+            statusTag.classList.add('status-tag');
+            let matched = false;
+            // 查找链接状态
+            const status = linkStatus.find(item => item.link.replace(/\/$/, '') === link);
+            if (status) {
+                let latencyText = '未知';
+                let className = 'status-tag-red'; // 默认红色
+                if (status.latency === -1) {
+                    latencyText = '未知';
+                } else {
+                    latencyText = status.latency.toFixed(2) + ' s';
+                    if (status.latency <= 2) {
+                        className = 'status-tag-green';
+                    } else if (status.latency <= 5) {
+                        className = 'status-tag-light-yellow';
+                    } else if (status.latency <= 10) {
+                        className = 'status-tag-dark-yellow';
+                    }
+                }
+                statusTag.textContent = latencyText;
+                statusTag.classList.add(className);
+                matched = true;
+            }
+            if (matched) {
+                card.style.position = 'relative';
+                card.appendChild(statusTag);
+            }
+        });
     }
     function fetchDataAndUpdateUI() {
         fetch(jsonUrl)
