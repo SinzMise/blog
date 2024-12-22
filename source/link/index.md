@@ -18,6 +18,7 @@ aside: false
 
 {% endraw %}
 # 待君归（大佬）
+“大佬们们”链接中无法访问的站点
 ```yaml
       # 已经永久停止更新
       - name: 陈鑫磊的博客
@@ -39,20 +40,62 @@ aside: false
         siteshot: https://image.thum.io/get/allowJPG/wait/20/width/600/crop/950/https://202271.xyz
 ```
 # 失去同步！（小伙伴）
+“小伙伴们”链接中无法访问的站点
 ```yaml
-      #（无法访问，疑似域名被卖掉）
-      - name: HeiYing
-        link: https://blog.black-ying.online
-        avatar: https://blog.black-ying.online/img/avatar.jpg
-        descr: 游龙当归海，海不迎我自来也。
-        siteshot: https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://blog.black-ying.online
-      #（疑似停止更新）
-    # 未添加本站链接
-      - name: YYDS Space
-        link: https://www.yyds.space
-        avatar: https://www.yyds.space/public/images/author.jpg
-        descr: A space for sharing technology.
-        siteshot: https://www.yyds.space/public/images/siteshot.jpg
+        # 无法访问，疑似域名被卖掉
+        - name: HeiYing
+          link: https://blog.black-ying.online
+          avatar: https://blog.black-ying.online/img/avatar.jpg
+          descr: 游龙当归海，海不迎我自来也。
+          siteshot: https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://blog.black-ying.online
+        # 未添加本站链接
+        - name: YYDS Space
+          link: https://www.yyds.space
+          avatar: https://www.yyds.space/public/images/author.jpg
+          descr: A space for sharing technology.
+          siteshot: https://www.yyds.space/public/images/siteshot.jpg
+        # 已经无法访问，疑似换域名
+        - name: 云晓晨CatchYun
+          link: https://www.catchyun.com/
+          avatar: https://cdn.catchyun.com/favicon.ico
+          descr: 未来路远 • 勿忘初心
+          siteshot: https://cdn.catchyun.com/images/img-theme/screenshot.webp
+        # blog无法访问，主站没搞友链
+        - name: 星溢栈
+          link: https://blog.xez.cc/
+          avatar: https://blog.xez.cc/img/avatar.jpg
+          descr: 看！有星划过天际
+          siteshot: https://image.thum.io/get/allowJPG/wait/20/width/600/crop/950/https://blog.xez.cc/
+        # 无法访问，疑似域名过期
+        - name: onlysheep
+          link: https://onlysheep.cn
+          avatar: https://onlysheep.cn/wp-content/uploads/2023/09/avatar.jpg
+          descr: 我们都是阴沟里的虫子，但总得有人仰望星空。
+          siteshot: https://image.thum.io/get/allowJPG/wait/20/width/600/crop/950/https://onlysheep.cn
+        # blog站无法访问，主站也无法访问，疑似域名过期
+        - name: 李沐恒碎碎念
+          link: https://blog.52nanshen.cn
+          avatar: https://blog.52nanshen.cn/logo1.jpg
+          descr: 莫听穿林打叶声，一蓑烟雨任平生
+          siteshot: https://image.thum.io/get/allowJPG/wait/20/width/600/crop/950/https://blog.52nanshen.cn
+        # blog站无法访问，个人主页倒是能访问，疑似博客站在重新装修
+        - name: 阳小楊
+          link: https://blog.yxyang.top
+          avatar: https://pic.imgdb.cn/item/65708f75c458853aefa8c951.jpg
+          descr: 无人了解你的灵魂．
+          siteshot: https://pic.imgdb.cn/item/65709596c458853aefc6469c.png
+        # 无法访问，疑似域名被卖掉
+        - name: 梦生
+          avatar: https://jsd.cdn.storisinz.site/gh/SinzMise/picx-images-hosting@master/zhandiantubiao.7pb701ykp.webp
+          descr: 种田佬记录下生活的美好时刻
+          link: https://www.wuyuankang.website/
+          siteshot: https://image.thum.io/get/allowJPG/wait/20/width/600/crop/950/https://www.wuyuankang.website/
+        # 无法访问，但是问题是ERR_SSL_UNRECOGNIZED_NAME_ALERT，疑似证书问题
+        - name: 王鑫的小站
+          descr: 我的小站很大，欢迎来我小站玩~
+          avatar: https://wxweb.xyz/wp-content/uploads/2024/05/1716211806-mmexport1716211797071.jpg
+          link: https://wxweb.xyz
+          siteshot: https://image.thum.io/get/allowJPG/wait/20/width/600/crop/950/https://wxweb.xyz
 ```
 （既然“小伙伴们”的友情链接超过10条，那么是时候该提一下添加要求了）
 # 本站添加友链要求
@@ -267,11 +310,11 @@ function askFriend (event) {
 <style>
     .status-tag {
         position: absolute;
-        top: 0px;
-        left: 0px;
-        padding: 3px 8px;
-        border-radius: 12px 0px 12px 0px;
-        font-size: 12px;
+        top: 5px;
+        left: 5px;
+        padding: 1px 8px;
+        border-radius: 12px;
+        font-size: 10px;
         color: white;
         font-weight: bold;
         transition: font-size 0.3s ease-out, width 0.3s ease-out, opacity 0.3s ease-out;

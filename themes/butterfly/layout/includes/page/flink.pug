@@ -78,8 +78,8 @@
         if i.flink_style === 'butterfly'
           .butterfly-flink-list
             each item in i.link_list
-              .flink-list-item
-                a(href=url_for(item.link)  title=item.name target="_blank")
+              a.flink-list-item(href=url_for(item.link)  title=item.name target="_blank")
+                .flink-item
                   .flink-item-icon
                     if theme.lazyload.enable
                       img(data-lazy-src=url_for(item.avatar) onerror=`this.onerror=null;this.src='` + url_for(theme.error_img.flink) + `'` alt=item.name )
@@ -118,8 +118,8 @@
         else if i.flink_style === 'byer'
           .byer-flink-list
             each item in i.link_list
-              .flink-list-item
-                a(href=url_for(item.link)  title=item.name target="_blank")
+              a.flink-list-item(href=url_for(item.link)  title=item.name target="_blank")
+                .flink-item
                   .flink-item-bar
                     sapn.flink-item-bar-yellow 
                     sapn.flink-item-bar-green 

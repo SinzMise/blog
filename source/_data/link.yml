@@ -231,6 +231,11 @@
         avatar: https://cravatar.cn/avatar/ECB2EA87C4532F007838D86D02798F89
         descr: 虚幻的幸福
         siteshot: https://image.thum.io/get/allowJPG/wait/20/width/600/crop/950/https://bikari.top
+      - name: 风记星辰
+        link: https://www.thyuu.com
+        avatar: https://std.thyuu.com/logo.svg
+        descr: 热爱你来过的每度温暖
+        siteshot: https://image.thum.io/get/allowJPG/wait/20/width/600/crop/950/https://www.thyuu.com
 - class_name: 小伙伴们
   class_desc: 那些人，那些事
   flink_style: butterfly
@@ -526,7 +531,7 @@
           link: https://wxweb.xyz
           siteshot: https://image.thum.io/get/allowJPG/wait/20/width/600/crop/950/https://wxweb.xyz
         - name: murenyouの小窝
-          avatar: https://murenyou.cn/wp-content/uploads/2024/11/cropped-f82fdf0fd2e10917380177e55b32b239.jpg
+          avatar: https://q2.qlogo.cn/headimg_dl?dst_uin=2728984538&spec=100
           descr: 很高兴认识你
           link: https://murenyou.cn
           siteshot: https://image.thum.io/get/allowJPG/wait/20/width/600/crop/950/https://murenyou.cn
@@ -570,6 +575,11 @@
           avatar: https://jsd.cdn.storisinz.site/npm/@floatsheep/fsl-fim@1.0.23/avatar%202024.main.webp
           descr: On the other side of obstacles
           siteshot: https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://blog.hesiy.cn
+        - name: 云团子的博客
+          link: https://www.yuncheng.fun/
+          avatar: https://www.yuncheng.fun/static/webAvatar/11727945933180571.png
+          descr: 欸，是谁家的小可爱？
+          siteshot: https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.yuncheng.fun/
 - class_name: 友谊长存
   class_desc: 无评论系统的博客（相识即是缘分）
   flink_style: butterfly

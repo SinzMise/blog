@@ -255,11 +255,6 @@
           avatar: https://static.miaoer.net/logo/avatar.webp
           descr: 缘，妙不可言
           siteshot: https://image.thum.io/get/allowJPG/wait/20/width/600/crop/950/https://www.miaoer.net/
-        - name: 云晓晨CatchYun
-          link: https://www.catchyun.com/
-          avatar: https://cdn.catchyun.com/favicon.ico
-          descr: 未来路远 • 勿忘初心
-          siteshot: https://cdn.catchyun.com/images/img-theme/screenshot.webp
         - name: Ordis
           link: https://imbhj.com
           avatar: https://jsd.onmicrosoft.cn/gh/SinzMise/picx-images-hosting@master/20230717/202208032018823.2qvsadcu1qw0.webp
@@ -290,11 +285,6 @@
           avatar: https://cdn.img.dreamerhe.cn/picx-images-hosting/dreamerstarlogo-removebg-preview.9gwi3fldv6.webp
           descr: 朝着梦想前进，纵有万般阻挠，也绝不会让我停下脚步，待到成功时，之喜唯有我独享！
           siteshot: https://image.thum.io/get/allowJPG/wait/20/width/600/crop/950/https://blog.dreamerhe.cn/
-        - name: 星溢栈
-          link: https://blog.xez.cc/
-          avatar: https://blog.xez.cc/img/avatar.jpg
-          descr: 看！有星划过天际
-          siteshot: https://image.thum.io/get/allowJPG/wait/20/width/600/crop/950/https://blog.xez.cc/
         - name: Xiobb’s Blog
           link: https://www.i45s.com/?_ref=blog.sinzmise.top
           avatar: https://q2.qlogo.cn/headimg_dl?dst_uin=3506642728&spec=640
@@ -305,31 +295,16 @@
           avatar: https://q.qlogo.cn/headimg_dl?dst_uin=3608275247&spec=640&img_type=jpg
           descr: 你我皆未来∎
           siteshot: https://image.thum.io/get/allowJPG/wait/20/width/600/crop/950/https://blog.foxcat.eu.org/
-        - name: onlysheep
-          link: https://onlysheep.cn
-          avatar: https://onlysheep.cn/wp-content/uploads/2023/09/avatar.jpg
-          descr: 我们都是阴沟里的虫子，但总得有人仰望星空。
-          siteshot: https://image.thum.io/get/allowJPG/wait/20/width/600/crop/950/https://onlysheep.cn
         - name: Gaspard の传火祭祀场
           link: https://www.gaspard.top/
           avatar: https://speedup.gaspard.top/info/Avatar.jpg
           descr: 庐山烟雨浙江潮，未至千般爱不消
           siteshot: https://image.thum.io/get/allowJPG/wait/20/width/600/crop/950/https://www.gaspard.top/
-        - name: 李沐恒碎碎念
-          link: https://blog.52nanshen.cn
-          avatar: https://blog.52nanshen.cn/logo1.jpg
-          descr: 莫听穿林打叶声，一蓑烟雨任平生
-          siteshot: https://image.thum.io/get/allowJPG/wait/20/width/600/crop/950/https://blog.52nanshen.cn
         - name: 阿方的博客
           link: https://fang.blog.miri.site/
           avatar: https://img.lrurl.top/FangAvatar
           descr: 这是一只啥都不会的屑阿方
           siteshot: https://image.thum.io/get/allowJPG/wait/20/width/600/crop/950/https://fang.blog.miri.site/
-        - name: 阳小楊
-          link: https://blog.yxyang.top
-          avatar: https://pic.imgdb.cn/item/65708f75c458853aefa8c951.jpg
-          descr: 无人了解你的灵魂．
-          siteshot: https://pic.imgdb.cn/item/65709596c458853aefc6469c.png
         - name: 落落のBlog
           link: https://www.whaleluo.top/
           avatar: https://q1.qlogo.cn/g?b=qq&nk=2734184475&s=640
@@ -423,8 +398,8 @@
         - name: 星の野
           avatar: https://bu.dusays.com/2023/10/01/6519291503349.jpg
           descr: 我自是年少，韶华倾负
-          link: https://byer.top/
-          siteshot: https://image.thum.io/get/allowJPG/wait/20/width/600/crop/950/https://byer.top/
+          link: https://blog.byer.top/
+          siteshot: https://image.thum.io/get/allowJPG/wait/20/width/600/crop/950/https://blog.byer.top/
         - name: Souiken’s Homepage
           avatar: https://souiken.moe/img/avatar.webp
           descr: 愿我们度过这个漫漫长夜之后，依旧能看到那旭日东升。
@@ -440,11 +415,6 @@
           descr: 我们生活在大地上，但我们的梦想超越天空
           link: https://www.mbrjun.cn/
           siteshot: https://image.thum.io/get/allowJPG/wait/20/width/600/crop/950/https://www.mbrjun.cn/
-        - name: 梦生
-          avatar: https://jsd.cdn.storisinz.site/gh/SinzMise/picx-images-hosting@master/zhandiantubiao.7pb701ykp.webp
-          descr: 种田佬记录下生活的美好时刻
-          link: https://www.wuyuankang.website/
-          siteshot: https://image.thum.io/get/allowJPG/wait/20/width/600/crop/950/https://www.wuyuankang.website/
         - name: Homulilly
           avatar: https://homulilly.com/images/avatar.jpg
           descr: Aroes’s Blog | \萌脇舞以/
@@ -525,11 +495,6 @@
           avatar: https://bu.dusays.com/2024/07/23/669f7b016ad0b.jpg
           link: https://wuminboke.site/
           siteshot: https://image.thum.io/get/allowJPG/wait/20/width/600/crop/950/https://wuminboke.site/
-        - name: 王鑫的小站
-          descr: 我的小站很大，欢迎来我小站玩~
-          avatar: https://wxweb.xyz/wp-content/uploads/2024/05/1716211806-mmexport1716211797071.jpg
-          link: https://wxweb.xyz
-          siteshot: https://image.thum.io/get/allowJPG/wait/20/width/600/crop/950/https://wxweb.xyz
         - name: murenyouの小窝
           avatar: https://q2.qlogo.cn/headimg_dl?dst_uin=2728984538&spec=100
           descr: 很高兴认识你
