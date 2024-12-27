@@ -991,6 +991,7 @@ inject:
     - <script data-pjax src="/chatroom/chatroom.js"></script>
 
   bottom:
+    - <script src="https://jsd.cdn.storisinz.site/npm/@ruffle-rs/ruffle"></script>
     - <script src="https://cdnjs.cdn.storisinz.site/ajax/libs/jquery/3.6.3/jquery.min.js"></script> # jQuery
     - <script>var meting_api = 'https://meting.api.sinzmise.eu.org/api?server=:server&type=:type&id=:id&auth=:auth&r=:r';</script> # Meting API
     - <script async src="https://jsd.cdn.storisinz.site/npm/vue@2.6.14/dist/vue.min.js"></script> # VUE
