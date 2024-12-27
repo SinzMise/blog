@@ -1061,6 +1061,7 @@ inject:
 
   bottom:
     - <script src="https://jsd.cdn.storisinz.site/npm/@ruffle-rs/ruffle"></script>
+    - <script src="/js/ceta/random.js"></script>
     - <script async data-pjax src="/bbs/bbs.js"></script> # 哔哔广场
     - <script src="https://jsd.cdn.storisinz.site/npm/swiper@10.3.1/swiper-bundle.min.js"></script>
     - <script src="https://cdnjs.cdn.storisinz.site/ajax/libs/jquery/3.6.3/jquery.min.js"></script> # jQuery
