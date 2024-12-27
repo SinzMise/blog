@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://blog.sinzmise.top/test.json</loc>
+    <loc>https://blog.sinzmise.top/manifest.json</loc>
     
     <lastmod>2024-12-27</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://blog.sinzmise.top/manifest.json</loc>
+    <loc>https://blog.sinzmise.top/test.json</loc>
     
     <lastmod>2024-12-27</lastmod>
     
@@ -110,15 +110,6 @@
   </url>
   
   <url>
-    <loc>https://blog.sinzmise.top/categories/</loc>
-    
-    <lastmod>2024-12-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.sinzmise.top/fcircle/</loc>
     
     <lastmod>2024-12-27</lastmod>
@@ -128,7 +119,7 @@
   </url>
   
   <url>
-    <loc>https://blog.sinzmise.top/comments/</loc>
+    <loc>https://blog.sinzmise.top/essay/</loc>
     
     <lastmod>2024-12-27</lastmod>
     
@@ -137,7 +128,16 @@
   </url>
   
   <url>
-    <loc>https://blog.sinzmise.top/essay/</loc>
+    <loc>https://blog.sinzmise.top/categories/</loc>
+    
+    <lastmod>2024-12-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sinzmise.top/comments/</loc>
     
     <lastmod>2024-12-27</lastmod>
     
