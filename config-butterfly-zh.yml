@@ -12,7 +12,9 @@ menu:
     留言板: /comments/ || icon-liuyan || faa-tada
     友人帐: /link/ || icon-lianjie || faa-tada
     哔哔广场: /bbs/ || icon-pjh-laba || faa-tada
-  关于 || icon-shejiaoxinxi || faa-tada || hide:
+  休闲 || icon-pjh-xiuxian || faa-tada || hide:
+    小游戏: /games/ || icon-pjh-Swf || faa-tada
+  关于 || icon-pjh-guanyuwomen || faa-tada || hide:
     即刻短文: /essay/ || icon-pjh-duanwenbentuijian || faa-tada
   虫洞 || icon-pjh-chongdonglogo || faa-tada || hide:
     开往: https://www.travellings.cn/go-by-clouds.html || icon-pjh-huoche || faa-tada
@@ -1076,7 +1078,7 @@ inject:
     - <script async src="//at.alicdn.com/t/c/font_3586335_hsivh70x0fm.js"></script> # js图标引入1
     - <script async src="//at.alicdn.com/t/c/font_3636804_gr02jmjr3y9.js"></script> # js图标引入2
     - <script async src="//at.alicdn.com/t/c/font_3612150_kfv55xn3u2g.js"></script> # js图标引入3
-    - <script async src="//at.alicdn.com/t/c/font_4199232_t96lac78z3.js"></script> # js图标引入4
+    - <script async src="//at.alicdn.com/t/c/font_4199232_v7q1fg0k3a7.js"></script> # js图标引入4
     - <script async src="/js/Gold-ingot.js"></script>  # 新年元宝
     - <canvas id="universe"></canvas> # 星空画布
     - <canvas id="snow"></canvas> # 雪花画布
