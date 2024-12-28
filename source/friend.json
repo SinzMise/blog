@@ -216,6 +216,11 @@
       "https://cravatar.cn/avatar/ECB2EA87C4532F007838D86D02798F89"
     ],
     [
+      "风记星辰",
+      "https://www.thyuu.com",
+      "https://std.thyuu.com/logo.svg"
+    ],
+    [
       "Aciano",
       "https://aciano.top/",
       "https://jsd.onmicrosoft.cn/npm/aciano-cdn@1.0.13/avatar.jpg"
@@ -229,11 +234,6 @@
       "喵二の小博客",
       "https://www.miaoer.net/",
       "https://static.miaoer.net/logo/avatar.webp"
-    ],
-    [
-      "云晓晨CatchYun",
-      "https://www.catchyun.com/",
-      "https://cdn.catchyun.com/favicon.ico"
     ],
     [
       "Ordis",
@@ -266,11 +266,6 @@
       "https://cdn.img.dreamerhe.cn/picx-images-hosting/dreamerstarlogo-removebg-preview.9gwi3fldv6.webp"
     ],
     [
-      "星溢栈",
-      "https://blog.xez.cc/",
-      "https://blog.xez.cc/img/avatar.jpg"
-    ],
-    [
       "Xiobb’s Blog",
       "https://www.i45s.com/?_ref=blog.sinzmise.top",
       "https://q2.qlogo.cn/headimg_dl?dst_uin=3506642728&spec=640"
@@ -281,29 +276,14 @@
       "https://q.qlogo.cn/headimg_dl?dst_uin=3608275247&spec=640&img_type=jpg"
     ],
     [
-      "onlysheep",
-      "https://onlysheep.cn",
-      "https://onlysheep.cn/wp-content/uploads/2023/09/avatar.jpg"
-    ],
-    [
       "Gaspard の传火祭祀场",
       "https://www.gaspard.top/",
       "https://speedup.gaspard.top/info/Avatar.jpg"
     ],
     [
-      "李沐恒碎碎念",
-      "https://blog.52nanshen.cn",
-      "https://blog.52nanshen.cn/logo1.jpg"
-    ],
-    [
       "阿方的博客",
       "https://fang.blog.miri.site/",
       "https://img.lrurl.top/FangAvatar"
-    ],
-    [
-      "阳小楊",
-      "https://blog.yxyang.top",
-      "https://pic.imgdb.cn/item/65708f75c458853aefa8c951.jpg"
     ],
     [
       "落落のBlog",
@@ -352,7 +332,7 @@
     ],
     [
       "奥奥の探索日记",
-      "https://sawr.gitee.io",
+      "https://blog.shaoao.top/",
       "https://cccimg.com/view.php/f8a4b6199c0c036da1f160b12d01f50d.jpg"
     ],
     [
@@ -397,7 +377,7 @@
     ],
     [
       "星の野",
-      "https://byer.top/",
+      "https://blog.byer.top/",
       "https://bu.dusays.com/2023/10/01/6519291503349.jpg"
     ],
     [
@@ -414,11 +394,6 @@
       "MBRjun-Blog",
       "https://www.mbrjun.cn/",
       "https://cos.mbrjun.cn/PICS/LG4v3avatar144px.jpg"
-    ],
-    [
-      "梦生",
-      "https://www.wuyuankang.website/",
-      "https://jsd.cdn.storisinz.site/gh/SinzMise/picx-images-hosting@master/zhandiantubiao.7pb701ykp.webp"
     ],
     [
       "Homulilly",
@@ -501,14 +476,9 @@
       "https://bu.dusays.com/2024/07/23/669f7b016ad0b.jpg"
     ],
     [
-      "王鑫的小站",
-      "https://wxweb.xyz",
-      "https://wxweb.xyz/wp-content/uploads/2024/05/1716211806-mmexport1716211797071.jpg"
-    ],
-    [
       "murenyouの小窝",
       "https://murenyou.cn",
-      "https://murenyou.cn/wp-content/uploads/2024/11/cropped-f82fdf0fd2e10917380177e55b32b239.jpg"
+      "https://q2.qlogo.cn/headimg_dl?dst_uin=2728984538&spec=100"
     ],
     [
       "Elykia",
@@ -534,6 +504,26 @@
       "厄尔科斯",
       "https://sikan.moe/",
       "https://sikan.moe/img/akas.png"
+    ],
+    [
+      "萌！萝莉",
+      "https://loliloli.moe",
+      "https://img.cdn.loliloli.net/images/2021/01/11/avatar.jpg"
+    ],
+    [
+      "洛卡日记",
+      "https://luoca.cn/",
+      "https://bu.dusays.com/2024/08/18/66c1b1239a312.png"
+    ],
+    [
+      "FloatSheep",
+      "https://blog.hesiy.cn",
+      "https://jsd.cdn.storisinz.site/npm/@floatsheep/fsl-fim@1.0.23/avatar%202024.main.webp"
+    ],
+    [
+      "云团子的博客",
+      "https://www.yuncheng.fun/",
+      "https://www.yuncheng.fun/static/webAvatar/11727945933180571.png"
     ],
     [
       "甜鱼/Ayu",
