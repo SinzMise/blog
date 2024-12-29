@@ -3208,8 +3208,6 @@ let bingDayBg = screen.width <= 768 ? "url(https://bing.img.run/m.php)" : "url(h
 let bingHistoryBg = screen.width <= 768 ? "url(https://bing.img.run/rand_m.php)" : "url(https://bing.img.run/rand.php)";
 // LoliAPI
 let Loliapi = "url(https://www.loliapi.com/acg/)";
-// 随机美图cdn.seovx.com
-let seovx = "url(https://cdn.seovx.com/?mom=302)";
 // picsum随机
 let picsum = "url(https://picsum.photos/1920/1080.webp)";
 // 小歪二次元
@@ -3560,7 +3558,6 @@ function createWinbox() {
 <a id="bingDayBox" rel="noopener external nofollow" style="background-image: ${bingDayBg}" class="box apiBox" onclick="changeBg('${bingDayBg}')"></a>
 <a id="bingHistoryBox" rel="noopener external nofollow" style="background-image: ${bingHistoryBg}" class="box apiBox" onclick="changeBg('${bingHistoryBg}')"></a>
 <a id="Loliapi" rel="noopener external nofollow" style="background-image: ${Loliapi}" class="box apiBox" onclick="changeBg('${Loliapi}')"></a>
-<a id="seovxBox" rel="noopener external nofollow" style="background-image: ${seovx}" class="box apiBox" onclick="changeBg('${seovx}')"></a>
 <a id="picsumBox" rel="noopener external nofollow" style="background-image: ${picsum}" class="box apiBox" onclick="changeBg('${picsum}')"></a>
 <a id="alcyapi" rel="noopener external nofollow" style="background-image: ${alcyapi}" class="box apiBox" onclick="changeBg('${alcyapi}')"></a>
 <a id="alcymoe" rel="noopener external nofollow" style="background-image: ${alcymoe}" class="box apiBox" onclick="changeBg('${alcymoe}')"></a>
