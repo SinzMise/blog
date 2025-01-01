@@ -1,5 +1,15 @@
 - let comments = theme.comments
 #post-info
+  #post-firstinfo
+    .meta-firstline
+      if (theme.post_meta.page.tags)
+        span.article-meta.tags
+          each item, index in page.tags.data
+            a(href=url_for(item.path) tabindex="-1" itemprop="url").article-meta__tags 
+              span 
+                i.anzhiyufont.anzhiyu-icon-hashtag
+                =item.name
+
   h1.post-title.p-name= page.title || _p('no_title')
     if theme.post_edit.enable
       a.post-edit-link(href=theme.post_edit.url + page.source title=_p('post.edit') target="_blank")
@@ -11,11 +21,11 @@
         span.post-meta-date
           if (theme.post_meta.post.date_type === 'both')
             //- i.far.fa-calendar-alt.fa-fw.post-meta-icon
-            svg.meta_icon(style="width:30px;height:30px;position:relative;top:10px").post-meta-icon
+            svg.meta_icon(style="width:25px;height:25px;position:relative;top:10px").post-meta-icon
               use(xlink:href='#icon-rili')
             span.post-meta-label= _p('post.created') + " "
             time.post-meta-date-created.dt-published(datetime=date_xml(page.date) title=_p('post.created') + ' ' + full_date(page.date))=date(page.date, config.date_format)
-            span.post-meta-separator |
+            span.post-meta-separator        
             //- i.fas.fa-history.fa-fw.post-meta-icon
             svg.meta_icon(style="width:18px;height:18px;position:relative;top:5px").post-meta-icon
               use(xlink:href='#icon-gengxin1')
@@ -32,7 +42,7 @@
       if (theme.post_meta.post.categories && page.categories.data.length > 0)
         span.post-meta-categories
           if (theme.post_meta.post.date_type)
-            span.post-meta-separator |
+            span.post-meta-separator        
 
           each item, index in page.categories.data
             //- i.fas.fa-inbox.fa-fw.post-meta-icon
@@ -45,7 +55,7 @@
     .meta-secondline
       - let postWordcount = theme.wordcount.enable && (theme.wordcount.post_wordcount || theme.wordcount.min2read)
       if (postWordcount)
-        span.post-meta-separator |
+        span.post-meta-separator        
         span.post-meta-wordcount
           if theme.wordcount.post_wordcount
             //- i.far.fa-file-word.fa-fw.post-meta-icon
@@ -54,7 +64,7 @@
             span.post-meta-label= _p('post.wordcount') + ':'
             span.word-count= wordcount(page.content)
             if theme.wordcount.min2read
-              span.post-meta-separator |
+              span.post-meta-separator        
           if theme.wordcount.min2read
             //- i.far.fa-clock.fa-fw.post-meta-icon
             svg.meta_icon(style="width:20px;height:20px;position:relative;top:5px").post-meta-icon
@@ -64,7 +74,7 @@
     
       //- for pv and count
       mixin pvBlock(parent_id,parent_class,parent_title)
-        span.post-meta-separator |
+        span.post-meta-separator        
         span(class=parent_class id=parent_id data-flag-title=page.title)
           //- i.far.fa-eye.fa-fw.post-meta-icon
           svg.meta_icon(style="width:25px;height:25px;position:relative;top:5px").post-meta-icon
@@ -95,12 +105,19 @@
         +pvBlock('','post-meta-pv-cv','')
           span#busuanzi_value_page_pv
             i.fa-solid.fa-spinner.fa-spin
+      - let location = page.location ? page.location : theme.post_copyright.location
+      if theme.post_copyright.enable && location
+        span.post-meta-separator        
+        span.post-meta-position(title="作者IP属地为" + location)
+          svg.meta_icon(style="width:18px;height:18px;position:relative;top:5px").post-meta-icon
+              use(xlink:href='#icon-pjh-diqu')
+          =location
 
       if comments.count && !comments.lazyload && page.comments !== false && comments.use
         - var whichCount = comments.use[0]
 
         mixin countBlock
-          span.post-meta-separator |
+          span.post-meta-separator        
           span.post-meta-commentcount
             //- i.far.fa-comments.fa-fw.post-meta-icon
             svg.meta_icon(style="width:22px;height:22px;position:relative;top:6px").post-meta-icon

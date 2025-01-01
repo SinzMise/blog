@@ -2692,6 +2692,19 @@ map.set('black', "rgb(0, 0, 0)");
 map.set('darkblue', "rgb(97, 100, 159)");
 map.set('heoblue', "rgb(66, 90, 239)");
 
+map.set('dark-red', "rgb(209, 37, 48)");
+map.set('dark-orange', "rgb(210, 136, 45)");
+map.set('dark-yellow', "rgb(211, 210, 37)")
+map.set('dark-purple', "rgb(150, 40, 212)");
+map.set('dark-blue', "rgb(68, 177, 226)");
+map.set('dark-gray', "rgb(198, 198, 198)");
+map.set('dark-green', "rgb(0, 169, 160)");
+map.set('dark-whitegray', "rgb(213, 213, 213)");
+map.set('dark-pink', "rgb(207, 85, 129)");
+map.set('dark-black', "rgb(0, 0, 0)");
+map.set('dark-darkblue', "rgb(97, 100, 159)");
+map.set('dark-heoblue', "rgb(0, 67, 210)");
+
 class Cursor {
   constructor() {
     this.pos = { curr: null, prev: null };
@@ -3009,7 +3022,7 @@ if (localStorage.getItem("themeColor") == undefined) {
 }
 setColor(localStorage.getItem("themeColor"));
 function setColor(c) {
-  document.getElementById("themeColor").innerText = `:root{--theme-color:` + map.get(c) + ` !important}`;
+  document.getElementById("themeColor").innerText = `:root{--theme-color:` + map.get(c) + ` !important}[data-theme="dark"] {--theme-color:` + map.get('dark-' + c) + ` !important}`;
   localStorage.setItem("themeColor", c);
   // 刷新鼠标颜色
   CURSOR.refresh();

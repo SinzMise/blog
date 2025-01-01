@@ -71,6 +71,16 @@
       content: ''
       transition: all .3s ease-out
 
+schemeDark()
+  @media (prefers-color-scheme: dark)
+    {block}
+schemeLight()
+  @media (prefers-color-scheme: light)
+    {block}
+maxWidth500()
+  @media screen and (max-width: 500px)
+    {block}
+
 maxWidth600()
   @media screen and (max-width: 600px)
     {block}
@@ -83,8 +93,12 @@ minWidth768()
   @media screen and (min-width: 768px)
     {block}
 
-maxWidth1024()
-  @media screen and (max-width: 1024px)
+maxWidth1200()
+  @media screen and (max-width: 1200px)
+    {block}
+
+maxWidth1400()
+  @media screen and (max-width: 1400px)
     {block}
 
 maxWidth900()
@@ -99,8 +113,17 @@ minWidth900()
   @media screen and (min-width: 900px)
     {block}
 
+minWidth1200()
+  @media screen and (min-width: 1200px)
+    {block}
 minWidth2000()
   @media screen and (min-width: 2000px)
+    {block}
+maxHeight680()
+  @media screen and (max-height: 680px)
+    {block}
+maxHeight580()
+  @media screen and (max-height: 580px)
     {block}
 
 // animation

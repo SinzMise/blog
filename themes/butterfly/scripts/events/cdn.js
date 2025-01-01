@@ -66,11 +66,15 @@ hexo.extend.filter.register('before_generate', () => {
         cdnjs_name
       }
       const cdnSource = {
-        local: cond === 'internal' ? cdnjs_file : `/pluginsSrc/${name}/${file}`,
+        local: cond === "internal" ? cdnjs_file : `/pluginsSrc/${name}/${file}`,
         jsdelivr: `https://cdn.jsdelivr.net/npm/${name}${verType}/${min_file}`,
         unpkg: `https://unpkg.com/${name}${verType}/${file}`,
         cdnjs: `https://cdnjs.cloudflare.com/ajax/libs/${cdnjs_name}/${version}/${min_cdnjs_file}`,
-        sznjsd: `https://jsd.cdn.storisinz.site/npm/${name}${verType}/${file}`,
+        elemecdn: `https://npm.elemecdn.com/${name}${verType}/${file}`,
+        onmicrosoft: `https://npm.onmicrosoft.cn/${name}${verType}/${file}`,
+        cbd: `https://cdn.cbd.int/${name}${verType}/${file}`,
+        anheyu: `https://cdn.anheyu.com/npm/${name}${verType}/${min_file}`,
+        sznjsd: `https://jsd.cdn.storisinz.site/npm/${name}${verType}/${min_file}`,
         szncdnjs: `https://cdnjs.cdn.storisinz.site/ajax/libs/${cdnjs_name}/${version}/${min_cdnjs_file}`,
         custom: (CDN.custom_format || '').replace(/\$\{(.+?)\}/g, (match, $1) => value[$1])
       }

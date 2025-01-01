@@ -26,6 +26,34 @@
   --hl-bg: #282c34;
 }
 
+/* data-theme:dark伪类指定暗色背景下全局颜色 */
+[data-theme="dark"] {
+  --blue-custom: #5ea6e5;
+  --loading-color: rgba(207, 246, 247, 0.92);
+  --border-color: #c9c9c9;
+  --color-red: rgb(209, 37, 48);
+  --color-orange: rgb(210, 136, 45);
+  --color-yellow: rgb(211, 210, 37);
+  --color-purple: rgb(150, 40, 212);
+  --color-blue: rgb(68, 177, 226);
+  --color-gray: rgb(198, 198, 198);
+  --color-green: rgb(0, 169, 160);
+  --color-whitegray: rgb(213, 213, 213);
+  --color-pink: rgb(207, 85, 129);
+  --color-black: rgb(0, 0, 0);
+  --color-darkblue: rgb(97, 100, 159);
+  --color-heoblue: rgb(0, 67, 210);
+  --btn-bg: var(--theme-color) !important;
+  --scrollbar-color: var(--theme-color) !important;
+  --border-style: 1px solid rgba(169, 169, 169, 0.7);
+  /* 代码框行数背景色 */
+  --hlnumber-bg: #282c34;
+  /* 代码框顶部背景色 */
+  --hltools-bg: #1c1c1c;
+  /* 代码框背景色 */
+  --hl-bg: #282c34;
+}
+
 /* 滚动条样式 */
 ::-webkit-scrollbar {
   width: 8px;
@@ -248,19 +276,9 @@ div#archive {
 }
 
 /* 白天模式头图与页脚遮罩 */
-[data-theme="light"] #page-header:before,
 [data-theme="light"] #footer::after {
   background-color: rgba(0, 0, 0, 0.18) !important;
   z-index: -3;
-}
-
-/* 头图隐藏 */
-#page-header {
-  background: transparent !important;
-}
-/* 夜间模式页脚头部遮罩隐藏 */
-[data-theme="dark"] #page-header::before {
-  background: transparent !important;
 }
 
 /* 阅读模式 */
