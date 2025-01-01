@@ -3037,32 +3037,6 @@ hr:before {
   transition: all 0.3s ease-in-out;
 }
 
-.footer-marquee-container {
-  /* position: relative; */
-  width: 100%;
-  height: 50px;
-  overflow: hidden;
-  background-color: rgba(0, 0, 0, 0.5);
-}
-.footer-marquee-box {
-  /* position: absolute; */
-  display: inline-block;
-  white-space: nowrap;
-  animation: footer-marquee 20s linear infinite; /* 跑马灯动画 */
-}
-.footer-marquee-box p {
-  color: var(--theme-color);
-  margin: 9px;
-}
-@keyframes footer-marquee {
-  0% {
-    transform: translateX(100vw); /* 100% 改为 100vw */
-  }
-  100% {
-    transform: translateX(-100%);
-  }
-}
-
 .webmentions-how {
   font-size: 90%;
   font-style: italic;

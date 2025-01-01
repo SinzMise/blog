@@ -461,8 +461,8 @@ crisp:
 # --------------------------------------
 footer:
   marquee:
-    enable: true
-    text: '12/20更新：1.修复手机端Menus错位的问题 2.优化WebMention发送按钮 3.WebMention彻底支持Pjax' 
+    enable: false
+    text: '12/20更新：1.修复手机端Menus错位的问题 2.优化WebMention发送按钮 3.WebMention彻底支持Pjax                                ' 
   owner:
     enable: false
     since: 2021
@@ -516,9 +516,9 @@ footer:
       r_link: /fcircle/
       r_name: 朋友圈
   flinks:
-    - link: https://www.fomal.cc/
-      title: Fomalhaut🥝
-      image: https://www.fomal.cc/assets/avatar.webp
+    - link: https://www.lihaoyu.cn
+      title: 晓雨杂记
+      image: https://blog-api.lihaoyu.cn/images/profile/avatar-128x.webp
     - link: https://dusays.com/
       title: 杜老师说
       image: https://cdn.dusays.com/avatar.png
