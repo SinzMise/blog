@@ -2,21 +2,20 @@ if theme.footer.marquee.enable
   .footer-marquee-container
     .footer-marquee-box
       p.footer-marquee!=theme.footer.marquee.text
-
-script.
-  $('.footer-marquee').marquee({
-    //duration in milliseconds of the marquee
-    duration: 15000,
-    //gap in pixels between the tickers
-    gap: 1000,
-    //time in milliseconds before the marquee will start animating
-    delayBeforeStart: 1000,
+  script.
+      $('.footer-marquee').marquee({
+      //duration in milliseconds of the marquee
+      duration: 15000,
+      //gap in pixels between the tickers
+      gap: 1000,
+      //time in milliseconds before the marquee will start animating
+      delayBeforeStart: 1000,
       //'left' or 'right'
-    direction: 'left',
-    //true or false - should the marquee be duplicated to show an effect of continues flow
-    duplicated: false,
-    pauseOnHover: true
-  });
+      direction: 'left',
+      //true or false - should the marquee be duplicated to show an effect of continues flow
+      duplicated: false,
+      pauseOnHover: true
+    });
 
 #footer-wrap
   #ft
