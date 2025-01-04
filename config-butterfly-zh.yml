@@ -16,6 +16,7 @@ menu:
     小游戏: /games/ || icon-pjh-Swf || faa-tada
   关于 || icon-pjh-guanyuwomen || faa-tada || hide:
     即刻短文: /essay/ || icon-pjh-duanwenbentuijian || faa-tada
+    站点统计: https://umami.status.sinzmise.top/share/tliXWHHcZzGWhRgI/blog.sinzmise.top || icon-pjh-tongji || faa-tada
   虫洞 || icon-pjh-chongdonglogo || faa-tada || hide:
     开往: https://www.travellings.cn/go-by-clouds.html || icon-pjh-huoche || faa-tada
     异次元之旅: https://travel.moe/go.html || icon-pjh-meng || faa-tada
@@ -1067,6 +1068,7 @@ inject:
   bottom:
     - <script src="https://jsd.cdn.storisinz.site/npm/@ruffle-rs/ruffle"></script>
     - <script src="/js/ceta/random.js"></script>
+    - <script defer src="https://umami.status.sinzmise.top/script.js" data-website-id="f1d455c0-5a05-4974-8c7f-cc8deb3eff18"></script> # 自建Umami
     - <script async data-pjax src="/bbs/bbs.js"></script> # 哔哔广场
     - <script src="https://jsd.cdn.storisinz.site/npm/swiper@10.3.1/swiper-bundle.min.js"></script>
     - <script src="https://cdnjs.cdn.storisinz.site/ajax/libs/jquery/3.6.3/jquery.min.js"></script> # jQuery
