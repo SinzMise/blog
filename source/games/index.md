@@ -7,7 +7,7 @@ top_img: false
 {% tabs 游戏合集-1 %}
 <!-- tab 解谜游戏 -->
 
-昨日重现1：逃出大学公寓（因会导致崩溃所以不放上去）
+[昨日重现1：逃出大学公寓](/games/riddle/esc1-e.html)
 来源：flash512
 
 <hr>

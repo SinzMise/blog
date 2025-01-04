@@ -6,7 +6,7 @@ top_img: false
 <div id="gameplayer"></div>
 <script>
 function loadgame() {
-    document.getElementById("gameplayer").innerHTML='<embed width="640" height="480" name="FlashVars" wmode="opaque" play="true" loop="true" scale="showall" src="esc4-e.swf" type="application/x-shockwave-flash"></embed>';
+    document.getElementById("gameplayer").innerHTML='<embed width="640" height="480" src="esc4-e.swf" type="application/x-shockwave-flash"></embed>';
 }
 loadgame()
 </script>
