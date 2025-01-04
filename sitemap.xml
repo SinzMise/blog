@@ -20,7 +20,25 @@
   </url>
   
   <url>
+    <loc>https://blog.sinzmise.top/manifest.json</loc>
+    
+    <lastmod>2025-01-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.sinzmise.top/test.json</loc>
+    
+    <lastmod>2025-01-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sinzmise.top/js/waifu-tips.json</loc>
     
     <lastmod>2025-01-04</lastmod>
     
@@ -56,6 +74,15 @@
   </url>
   
   <url>
+    <loc>https://blog.sinzmise.top/link/</loc>
+    
+    <lastmod>2025-01-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.sinzmise.top/update/</loc>
     
     <lastmod>2025-01-04</lastmod>
@@ -83,34 +110,34 @@
   </url>
   
   <url>
-    <loc>https://blog.sinzmise.top/manifest.json</loc>
-    
-    <lastmod>2025-01-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.sinzmise.top/js/waifu-tips.json</loc>
-    
-    <lastmod>2025-01-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.sinzmise.top/link/</loc>
-    
-    <lastmod>2025-01-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.sinzmise.top/games/riddle/esc4-e</loc>
+    
+    <lastmod>2025-01-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sinzmise.top/fcircle/</loc>
+    
+    <lastmod>2025-01-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sinzmise.top/essay/</loc>
+    
+    <lastmod>2025-01-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sinzmise.top/games/</loc>
     
     <lastmod>2025-01-04</lastmod>
     
@@ -146,15 +173,6 @@
   </url>
   
   <url>
-    <loc>https://blog.sinzmise.top/fcircle/</loc>
-    
-    <lastmod>2025-01-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.sinzmise.top/comments/</loc>
     
     <lastmod>2025-01-04</lastmod>
@@ -164,7 +182,7 @@
   </url>
   
   <url>
-    <loc>https://blog.sinzmise.top/essay/</loc>
+    <loc>https://blog.sinzmise.top/bbs/</loc>
     
     <lastmod>2025-01-04</lastmod>
     
@@ -182,7 +200,7 @@
   </url>
   
   <url>
-    <loc>https://blog.sinzmise.top/games/</loc>
+    <loc>https://blog.sinzmise.top/album/</loc>
     
     <lastmod>2025-01-04</lastmod>
     
@@ -191,16 +209,7 @@
   </url>
   
   <url>
-    <loc>https://blog.sinzmise.top/games/riddle/esc1-e</loc>
-    
-    <lastmod>2025-01-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.sinzmise.top/bbs/</loc>
+    <loc>https://blog.sinzmise.top/about/</loc>
     
     <lastmod>2025-01-04</lastmod>
     
@@ -606,24 +615,6 @@
   
   <url>
     <loc>https://blog.sinzmise.top/posts/38964/</loc>
-    
-    <lastmod>2025-01-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.sinzmise.top/album/</loc>
-    
-    <lastmod>2025-01-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.sinzmise.top/about/</loc>
     
     <lastmod>2025-01-04</lastmod>
     
