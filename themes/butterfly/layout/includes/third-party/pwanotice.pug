@@ -26,12 +26,12 @@ script.
           console.error("Error during service worker registration:", e)
           if (typeof swinstallretry === 'undefined') {
             swinstallretry = 1;
-            registerServiceWorker(`/cw.js`)
+            registerServiceWorker(`/sw.js`)
           }
         });
       }
     }
-    registerServiceWorker(`/cw.js`)
+    registerServiceWorker(`/sw.js`)
     //////////////////////////////////////////////////////////////////////////
     //// unregister serviceWorker
     //if ('serviceWorker' in navigator) {
