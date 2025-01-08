@@ -550,6 +550,11 @@
           avatar: https://me.owaii.net/favicon.ico
           descr: 𝗪𝗲 𝗔𝗿𝗲 𝗛𝘂𝗺𝗮𝗻 𝗕𝗲𝗶𝗻𝗴𝘀, 𝗡𝗼𝘁 𝗛𝘂𝗺𝗮𝗻 𝗗𝗼𝗶𝗻𝗴𝘀.
           siteshot: https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://we.owaii.net
+        - name: 酸奶云✨
+          link: https://blog.mcyogurt.cn/
+          avatar: https://i.postimg.cc/Lss1ZM3n/avatar.jpg
+          descr: 关于MCの另一个空间
+          siteshot: https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://blog.mcyogurt.cn/
 - class_name: 友谊长存
   class_desc: 无评论系统的博客（相识即是缘分）
   flink_style: butterfly
