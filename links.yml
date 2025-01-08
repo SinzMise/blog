@@ -545,6 +545,11 @@
           avatar: https://www.yuncheng.fun/static/webAvatar/11727945933180571.png
           descr: 欸，是谁家的小可爱？
           siteshot: https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.yuncheng.fun/
+        - name: 亚斯之声
+          link: https://we.owaii.net
+          avatar: https://me.owaii.net/favicon.ico
+          descr: 𝗪𝗲 𝗔𝗿𝗲 𝗛𝘂𝗺𝗮𝗻 𝗕𝗲𝗶𝗻𝗴𝘀, 𝗡𝗼𝘁 𝗛𝘂𝗺𝗮𝗻 𝗗𝗼𝗶𝗻𝗴𝘀.
+          siteshot: https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://we.owaii.net
 - class_name: 友谊长存
   class_desc: 无评论系统的博客（相识即是缘分）
   flink_style: butterfly
